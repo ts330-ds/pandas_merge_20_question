@@ -1,0 +1,1001 @@
+OrderID,CustomerID,OrderDate,Region,ProductCategory,ProductName,Quantity,PricePerUnit,PaymentMethod,CustomerAge,TotalPrice
+1,CUST239,2023-11-24,East,Electronics,Smartphone X,4,356.14,Bank Transfer,52,1424.56
+2,CUST157,2023-02-27,West,Electronics,Dining Table Set,9,474.68,PayPal,22,4272.12
+3,CUST265,2023-01-13,North,Electronics,Smartphone X,9,20.55,Bank Transfer,44,184.95000000000002
+4,CUST138,2023-05-21,East,Food,Organic Apples,9,369.42,Debit Card,61,3324.78
+5,CUST168,2023-05-06,East,Home Goods,Jeans Slim Fit,7,168.47,Debit Card,29,1179.29
+6,CUST136,2023-04-25,West,Food,Headphones ANC,2,453.5,Debit Card,37,907.0
+7,CUST118,2023-03-13,North,Home Goods,Laptop Pro,5,137.0,Debit Card,62,685.0
+8,CUST115,2023-02-22,North,Food,Blender Deluxe,4,363.8,Credit Card,37,1455.2
+9,CUST142,2023-12-13,East,Food,Gaming Mouse,8,439.44,Credit Card,26,3515.52
+10,CUST178,2023-10-07,South,Clothing,Cookbook Veggie,2,25.62,Bank Transfer,56,51.24
+11,CUST252,2023-02-14,East,Food,E-Reader Basic,6,201.84,PayPal,21,1211.04
+12,CUST291,2023-10-30,East,Books,Gaming Mouse,5,382.34,Debit Card,68,1911.6999999999998
+13,CUST245,2023-08-05,East,Clothing,T-Shirt V-Neck,2,230.18,Bank Transfer,36,460.36
+14,CUST173,2023-01-17,East,Food,Coffee Maker,1,137.29,Credit Card,55,137.29
+15,CUST212,2023-01-16,West,Electronics,T-Shirt V-Neck,8,113.8,Credit Card,44,910.4
+16,CUST131,2023-02-17,North,Books,Coffee Maker,2,70.1,PayPal,62,140.2
+17,CUST219,2023-04-22,West,Books,Jeans Slim Fit,7,429.28,PayPal,60,3004.96
+18,CUST276,2023-04-30,West,Books,Dining Table Set,9,289.8,PayPal,30,2608.2000000000003
+19,CUST177,2023-09-16,West,Clothing,Coffee Maker,9,42.81,Bank Transfer,30,385.29
+20,CUST279,2023-11-05,East,Food,Smartphone X,8,194.38,Credit Card,39,1555.04
+21,CUST203,2023-01-14,South,Food,Headphones ANC,9,187.03,Credit Card,45,1683.27
+22,CUST169,2023-10-15,North,Electronics,Blender Deluxe,2,94.96,PayPal,69,189.92
+23,CUST228,2023-04-12,South,Electronics,Blender Deluxe,6,220.58,Debit Card,64,1323.48
+24,CUST238,2023-11-29,West,Books,Smartphone X,4,169.39,PayPal,62,677.56
+25,CUST226,2023-12-26,West,Electronics,Headphones ANC,4,174.19,Bank Transfer,39,696.76
+26,CUST212,2023-10-07,South,Clothing,Sneakers Urban,5,370.82,PayPal,60,1854.1
+27,CUST120,2023-08-03,South,Food,Mystery Novel,3,115.52,PayPal,36,346.56
+28,CUST253,2023-04-23,South,Books,Sneakers Urban,1,322.72,Bank Transfer,25,322.72
+29,CUST110,2023-08-18,West,Electronics,Dining Table Set,8,287.47,PayPal,69,2299.76
+30,CUST210,2023-10-29,West,Clothing,Gaming Mouse,5,286.21,Credit Card,25,1431.05
+31,CUST288,2023-05-23,North,Clothing,Dining Table Set,3,333.19,Debit Card,59,999.5699999999999
+32,CUST182,2023-01-04,North,Electronics,Jeans Slim Fit,7,276.45,PayPal,43,1935.1499999999999
+33,CUST254,2023-03-23,West,Food,Gaming Mouse,7,440.23,Bank Transfer,65,3081.61
+34,CUST164,2023-12-24,South,Electronics,Mystery Novel,1,339.41,Debit Card,68,339.41
+35,CUST106,2023-08-05,South,Books,Mystery Novel,9,275.75,Bank Transfer,43,2481.75
+36,CUST123,2023-06-24,North,Electronics,T-Shirt V-Neck,2,415.73,Debit Card,40,831.46
+37,CUST158,2023-05-23,West,Clothing,Organic Apples,5,305.04,Debit Card,60,1525.2
+38,CUST272,2023-03-21,North,Electronics,T-Shirt V-Neck,5,149.12,PayPal,30,745.6
+39,CUST247,2023-04-21,North,Food,Organic Apples,8,107.51,Credit Card,45,860.08
+40,CUST250,2023-06-22,East,Home Goods,Dining Table Set,8,80.4,PayPal,26,643.2
+41,CUST105,2023-02-22,East,Electronics,E-Reader Basic,7,450.23,Bank Transfer,37,3151.61
+42,CUST295,2023-02-17,East,Food,Dining Table Set,7,356.52,Bank Transfer,36,2495.64
+43,CUST272,2023-07-14,South,Food,Coffee Maker,6,469.0,Debit Card,65,2814.0
+44,CUST168,2023-02-19,West,Clothing,Headphones ANC,6,303.63,Debit Card,56,1821.78
+45,CUST247,2023-07-03,West,Food,Organic Apples,9,239.33,Credit Card,68,2153.9700000000003
+46,CUST110,2023-06-26,West,Food,Sneakers Urban,6,34.56,PayPal,29,207.36
+47,CUST295,2023-11-06,West,Food,Gaming Mouse,2,337.46,Bank Transfer,32,674.92
+48,CUST293,2023-05-16,East,Food,Smartphone X,2,293.19,Debit Card,48,586.38
+49,CUST144,2023-01-23,South,Books,T-Shirt V-Neck,5,495.15,Credit Card,31,2475.75
+50,CUST220,2023-08-24,South,Books,Headphones ANC,4,123.38,Bank Transfer,28,493.52
+51,CUST232,2023-10-02,East,Clothing,Jeans Slim Fit,2,267.71,Debit Card,43,535.42
+52,CUST266,2023-03-05,South,Electronics,Headphones ANC,3,327.22,Bank Transfer,59,981.6600000000001
+53,CUST213,2023-07-13,East,Food,Cookbook Veggie,7,324.07,Credit Card,44,2268.49
+54,CUST171,2023-02-10,West,Electronics,Coffee Maker,8,282.84,Credit Card,28,2262.72
+55,CUST146,2023-10-10,East,Electronics,Cookbook Veggie,6,389.58,Bank Transfer,55,2337.48
+56,CUST249,2023-05-31,West,Clothing,E-Reader Basic,5,106.47,PayPal,51,532.35
+57,CUST211,2023-11-18,West,Food,Organic Apples,1,364.19,Bank Transfer,60,364.19
+58,CUST262,2023-11-13,North,Food,E-Reader Basic,8,311.77,Debit Card,36,2494.16
+59,CUST225,2023-07-05,East,Home Goods,Jeans Slim Fit,3,448.56,PayPal,23,1345.68
+60,CUST123,2023-10-23,North,Electronics,Sneakers Urban,6,424.36,Debit Card,63,2546.16
+61,CUST220,2023-04-09,East,Electronics,Mystery Novel,3,161.0,Bank Transfer,69,483.0
+62,CUST189,2023-12-27,East,Books,Cookbook Veggie,7,141.74,PayPal,55,992.1800000000001
+63,CUST204,2023-02-05,North,Home Goods,Blender Deluxe,7,490.92,Debit Card,66,3436.44
+64,CUST185,2023-01-24,North,Books,Cookbook Veggie,9,266.0,Bank Transfer,59,2394.0
+65,CUST182,2023-12-05,East,Books,Jeans Slim Fit,5,453.68,Bank Transfer,45,2268.4
+66,CUST271,2023-04-27,South,Books,Sci-Fi Classic,8,86.12,PayPal,18,688.96
+67,CUST126,2023-05-29,West,Clothing,Jeans Slim Fit,8,323.2,Bank Transfer,52,2585.6
+68,CUST141,2023-02-10,North,Clothing,E-Reader Basic,1,405.88,Credit Card,57,405.88
+69,CUST184,2023-04-30,West,Books,Headphones ANC,5,473.96,Debit Card,25,2369.7999999999997
+70,CUST205,2023-02-21,South,Home Goods,Smartphone X,3,171.98,Debit Card,69,515.9399999999999
+71,CUST277,2023-07-14,South,Electronics,T-Shirt V-Neck,1,363.87,Bank Transfer,64,363.87
+72,CUST226,2023-05-23,South,Home Goods,Smartphone X,4,271.71,Bank Transfer,24,1086.84
+73,CUST173,2023-08-21,North,Food,E-Reader Basic,8,35.01,Credit Card,28,280.08
+74,CUST269,2023-11-22,South,Clothing,T-Shirt V-Neck,3,346.55,PayPal,56,1039.65
+75,CUST202,2023-07-06,North,Electronics,Sci-Fi Classic,2,346.6,Bank Transfer,21,693.2
+76,CUST294,2023-03-25,South,Electronics,Blender Deluxe,9,465.65,Bank Transfer,42,4190.849999999999
+77,CUST240,2023-07-09,West,Food,Coffee Maker,5,251.17,Bank Transfer,29,1255.85
+78,CUST109,2023-07-01,West,Food,Gaming Mouse,7,118.97,Bank Transfer,43,832.79
+79,CUST216,2023-04-18,East,Books,E-Reader Basic,2,27.06,Debit Card,55,54.12
+80,CUST122,2023-12-10,West,Clothing,Headphones ANC,9,210.74,Bank Transfer,63,1896.66
+81,CUST180,2023-05-17,East,Clothing,Organic Apples,9,154.45,Debit Card,29,1390.05
+82,CUST164,2023-12-26,West,Home Goods,E-Reader Basic,4,381.74,Bank Transfer,60,1526.96
+83,CUST182,2023-12-16,North,Books,E-Reader Basic,4,180.36,PayPal,68,721.44
+84,CUST129,2023-11-28,West,Books,Cookbook Veggie,6,474.79,Credit Card,54,2848.7400000000002
+85,CUST297,2023-02-06,East,Books,Cookbook Veggie,6,481.34,PayPal,63,2888.04
+86,CUST203,2023-11-08,East,Books,T-Shirt V-Neck,1,312.35,Bank Transfer,41,312.35
+87,CUST231,2023-11-22,South,Clothing,Dining Table Set,9,464.69,Bank Transfer,33,4182.21
+88,CUST100,2023-03-29,North,Clothing,Dining Table Set,2,381.62,Bank Transfer,30,763.24
+89,CUST268,2023-10-01,West,Books,Laptop Pro,5,275.7,PayPal,42,1378.5
+90,CUST238,2023-05-06,South,Home Goods,Jeans Slim Fit,9,94.25,Bank Transfer,69,848.25
+91,CUST218,2023-03-25,West,Electronics,Headphones ANC,4,232.01,PayPal,21,928.04
+92,CUST205,2023-08-25,West,Electronics,Laptop Pro,3,282.63,Debit Card,28,847.89
+93,CUST113,2023-07-14,South,Home Goods,Sneakers Urban,7,432.66,Credit Card,49,3028.6200000000003
+94,CUST148,2023-05-19,South,Books,Sci-Fi Classic,6,243.26,Credit Card,66,1459.56
+95,CUST232,2023-11-24,South,Clothing,Dining Table Set,8,449.35,PayPal,24,3594.8
+96,CUST192,2023-12-19,South,Electronics,Organic Apples,3,338.8,Debit Card,63,1016.4000000000001
+97,CUST259,2023-10-13,South,Food,Cookbook Veggie,5,72.81,PayPal,28,364.05
+98,CUST293,2023-04-23,West,Food,Blender Deluxe,4,497.52,Debit Card,45,1990.08
+99,CUST227,2023-12-17,South,Home Goods,Mystery Novel,4,265.98,Bank Transfer,58,1063.92
+100,CUST260,2023-06-16,North,Books,Sci-Fi Classic,4,198.97,Debit Card,40,795.88
+101,CUST213,2023-01-29,East,Electronics,Mystery Novel,8,331.26,Debit Card,62,2650.08
+102,CUST294,2023-04-28,South,Books,Headphones ANC,6,58.9,Debit Card,40,353.4
+103,CUST113,2023-01-17,South,Electronics,Headphones ANC,3,320.09,Credit Card,67,960.27
+104,CUST152,2023-06-11,West,Home Goods,Sneakers Urban,5,251.63,Debit Card,45,1258.15
+105,CUST168,2023-07-25,South,Home Goods,Mystery Novel,6,206.3,Bank Transfer,60,1237.8000000000002
+106,CUST240,2023-05-18,South,Food,Headphones ANC,5,476.74,Bank Transfer,64,2383.7
+107,CUST133,2023-02-03,South,Books,Blender Deluxe,6,263.66,Bank Transfer,43,1581.96
+108,CUST173,2023-04-19,West,Food,Smartphone X,8,113.46,Debit Card,42,907.68
+109,CUST212,2023-10-18,South,Books,Laptop Pro,7,232.19,PayPal,46,1625.33
+110,CUST278,2023-06-11,East,Food,E-Reader Basic,5,460.1,PayPal,36,2300.5
+111,CUST224,2023-04-19,West,Clothing,Coffee Maker,6,92.17,Bank Transfer,50,553.02
+112,CUST131,2023-12-02,East,Clothing,Mystery Novel,4,110.91,Credit Card,53,443.64
+113,CUST107,2023-09-13,West,Clothing,Organic Apples,9,11.45,PayPal,31,103.05
+114,CUST261,2023-07-22,South,Clothing,Sci-Fi Classic,4,12.02,Debit Card,31,48.08
+115,CUST255,2023-11-26,East,Electronics,Smartphone X,1,415.55,PayPal,52,415.55
+116,CUST161,2023-08-23,West,Clothing,Mystery Novel,7,367.4,Bank Transfer,47,2571.7999999999997
+117,CUST281,2023-03-15,North,Home Goods,Smartphone X,7,180.75,Credit Card,45,1265.25
+118,CUST140,2023-05-16,South,Home Goods,Dining Table Set,4,350.66,PayPal,34,1402.64
+119,CUST179,2023-03-13,West,Electronics,Smartphone X,3,200.63,PayPal,20,601.89
+120,CUST241,2023-05-07,North,Clothing,Mystery Novel,8,476.68,Bank Transfer,33,3813.44
+121,CUST103,2023-10-15,West,Clothing,T-Shirt V-Neck,5,483.69,Credit Card,63,2418.45
+122,CUST241,2023-10-03,North,Clothing,Jeans Slim Fit,7,199.43,Credit Card,47,1396.01
+123,CUST204,2023-05-15,South,Food,Organic Apples,4,427.84,Bank Transfer,69,1711.36
+124,CUST123,2023-10-27,East,Books,E-Reader Basic,4,387.68,Debit Card,46,1550.72
+125,CUST157,2023-08-08,North,Food,E-Reader Basic,8,158.45,PayPal,62,1267.6
+126,CUST129,2023-10-26,West,Books,Organic Apples,8,119.86,Debit Card,32,958.88
+127,CUST218,2023-07-24,South,Clothing,T-Shirt V-Neck,2,231.83,PayPal,63,463.66
+128,CUST130,2023-07-05,North,Clothing,Cookbook Veggie,2,391.77,PayPal,42,783.54
+129,CUST265,2023-04-23,West,Food,Headphones ANC,3,480.28,Debit Card,68,1440.84
+130,CUST139,2023-03-12,West,Food,E-Reader Basic,3,382.97,Bank Transfer,55,1148.91
+131,CUST227,2023-09-18,West,Books,Cookbook Veggie,1,428.33,Bank Transfer,59,428.33
+132,CUST283,2023-09-10,North,Home Goods,Smartphone X,3,303.52,PayPal,64,910.56
+133,CUST174,2023-02-16,North,Books,Blender Deluxe,6,418.53,Bank Transfer,69,2511.18
+134,CUST230,2023-01-25,North,Food,Sci-Fi Classic,8,393.29,PayPal,55,3146.32
+135,CUST280,2023-02-26,East,Food,Dining Table Set,6,191.61,Bank Transfer,40,1149.66
+136,CUST169,2023-03-20,North,Electronics,Laptop Pro,5,278.24,PayPal,42,1391.2
+137,CUST206,2023-11-18,North,Food,E-Reader Basic,4,403.35,Bank Transfer,59,1613.4
+138,CUST223,2023-03-23,North,Electronics,Organic Apples,3,27.8,Credit Card,24,83.4
+139,CUST220,2023-12-15,East,Home Goods,Blender Deluxe,4,405.0,Debit Card,39,1620.0
+140,CUST162,2023-08-05,North,Books,Mystery Novel,7,93.05,Credit Card,34,651.35
+141,CUST216,2023-11-02,West,Books,Sneakers Urban,1,259.77,Debit Card,35,259.77
+142,CUST241,2023-02-02,North,Electronics,Jeans Slim Fit,7,405.1,Debit Card,66,2835.7000000000003
+143,CUST137,2023-07-17,West,Books,Organic Apples,1,130.64,PayPal,58,130.64
+144,CUST198,2023-07-15,West,Food,Headphones ANC,2,126.67,Debit Card,27,253.34
+145,CUST148,2023-11-02,West,Clothing,Sneakers Urban,4,204.37,Credit Card,27,817.48
+146,CUST253,2023-08-28,East,Electronics,Sneakers Urban,1,447.85,Credit Card,24,447.85
+147,CUST230,2023-09-28,East,Books,Smartphone X,9,5.22,Bank Transfer,65,46.98
+148,CUST291,2023-05-09,East,Electronics,Jeans Slim Fit,6,451.18,Credit Card,67,2707.08
+149,CUST134,2023-10-11,North,Electronics,Sci-Fi Classic,1,81.13,Bank Transfer,55,81.13
+150,CUST117,2023-01-06,West,Clothing,Sci-Fi Classic,1,495.09,Debit Card,44,495.09
+151,CUST170,2023-12-15,East,Food,T-Shirt V-Neck,6,477.65,Credit Card,69,2865.8999999999996
+152,CUST297,2023-02-28,East,Electronics,Cookbook Veggie,4,249.86,Debit Card,50,999.44
+153,CUST206,2023-12-16,North,Books,Coffee Maker,4,258.8,Credit Card,18,1035.2
+154,CUST187,2023-10-02,East,Home Goods,Sneakers Urban,6,243.37,Credit Card,61,1460.22
+155,CUST229,2023-05-17,North,Electronics,T-Shirt V-Neck,7,319.54,Bank Transfer,51,2236.78
+156,CUST168,2023-11-25,South,Electronics,Headphones ANC,9,49.91,Debit Card,21,449.18999999999994
+157,CUST100,2023-06-24,East,Clothing,Cookbook Veggie,5,21.15,Credit Card,34,105.75
+158,CUST172,2023-02-27,South,Food,Dining Table Set,9,33.56,PayPal,21,302.04
+159,CUST285,2023-05-31,North,Home Goods,Sneakers Urban,4,224.96,Debit Card,60,899.84
+160,CUST176,2023-08-11,West,Books,Blender Deluxe,2,141.4,Debit Card,43,282.8
+161,CUST250,2023-03-22,East,Home Goods,Jeans Slim Fit,3,312.91,Debit Card,21,938.73
+162,CUST248,2023-08-21,North,Books,Coffee Maker,1,496.26,Bank Transfer,18,496.26
+163,CUST268,2023-01-02,West,Food,Mystery Novel,6,196.23,PayPal,24,1177.3799999999999
+164,CUST225,2023-05-15,West,Books,Smartphone X,6,289.05,Debit Card,47,1734.3000000000002
+165,CUST138,2023-09-14,South,Clothing,Jeans Slim Fit,1,210.72,Credit Card,67,210.72
+166,CUST214,2023-04-02,North,Clothing,T-Shirt V-Neck,3,424.4,Credit Card,26,1273.1999999999998
+167,CUST237,2023-09-17,West,Clothing,Laptop Pro,5,451.61,Bank Transfer,52,2258.05
+168,CUST223,2023-02-24,East,Clothing,Gaming Mouse,3,439.29,Credit Card,25,1317.8700000000001
+169,CUST188,2023-11-17,East,Home Goods,Coffee Maker,3,487.31,Debit Card,41,1461.93
+170,CUST185,2023-06-02,South,Food,Coffee Maker,3,18.62,Credit Card,36,55.86
+171,CUST241,2023-11-24,West,Books,Headphones ANC,5,420.71,Debit Card,53,2103.5499999999997
+172,CUST295,2023-09-17,North,Books,Smartphone X,5,377.13,Credit Card,67,1885.65
+173,CUST239,2023-11-08,East,Clothing,E-Reader Basic,4,118.2,PayPal,69,472.8
+174,CUST196,2023-04-12,West,Clothing,Sci-Fi Classic,1,478.38,Bank Transfer,60,478.38
+175,CUST216,2023-03-20,West,Electronics,Sci-Fi Classic,5,78.35,Bank Transfer,44,391.75
+176,CUST182,2023-07-11,South,Food,Dining Table Set,5,341.38,PayPal,49,1706.9
+177,CUST148,2023-03-24,East,Home Goods,Laptop Pro,4,116.32,PayPal,31,465.28
+178,CUST278,2023-10-04,East,Books,Blender Deluxe,6,218.53,Bank Transfer,35,1311.18
+179,CUST161,2023-09-29,North,Electronics,Headphones ANC,4,360.98,PayPal,45,1443.92
+180,CUST246,2023-01-01,East,Electronics,Blender Deluxe,7,283.85,Debit Card,46,1986.9500000000003
+181,CUST198,2023-11-03,North,Books,Mystery Novel,7,216.61,Credit Card,33,1516.27
+182,CUST159,2023-06-15,East,Home Goods,Cookbook Veggie,2,166.54,Bank Transfer,52,333.08
+183,CUST298,2023-09-08,South,Electronics,Jeans Slim Fit,3,420.63,PayPal,64,1261.8899999999999
+184,CUST205,2023-01-10,East,Electronics,Dining Table Set,1,76.19,Debit Card,48,76.19
+185,CUST111,2023-02-27,North,Food,Dining Table Set,8,217.9,Bank Transfer,21,1743.2
+186,CUST181,2023-07-05,North,Home Goods,Gaming Mouse,9,452.36,PayPal,54,4071.2400000000002
+187,CUST290,2023-06-07,South,Electronics,Organic Apples,4,423.7,Bank Transfer,34,1694.8
+188,CUST221,2023-05-03,East,Home Goods,E-Reader Basic,6,203.47,PayPal,56,1220.82
+189,CUST280,2023-01-30,East,Books,T-Shirt V-Neck,9,382.74,Bank Transfer,65,3444.66
+190,CUST197,2023-05-04,South,Clothing,Sneakers Urban,6,412.46,Debit Card,63,2474.7599999999998
+191,CUST198,2023-10-18,East,Electronics,Organic Apples,9,445.0,Debit Card,43,4005.0
+192,CUST269,2023-02-10,East,Food,Cookbook Veggie,4,274.53,Credit Card,65,1098.12
+193,CUST266,2023-02-13,North,Books,Organic Apples,8,106.21,Bank Transfer,56,849.68
+194,CUST138,2023-09-06,East,Home Goods,Headphones ANC,9,131.38,Credit Card,58,1182.42
+195,CUST226,2023-02-05,East,Books,Sneakers Urban,4,151.37,Bank Transfer,21,605.48
+196,CUST109,2023-09-30,South,Electronics,Coffee Maker,5,298.93,PayPal,47,1494.65
+197,CUST132,2023-03-06,South,Home Goods,Laptop Pro,8,21.24,PayPal,47,169.92
+198,CUST228,2023-03-07,West,Clothing,Sci-Fi Classic,6,319.84,Credit Card,39,1919.04
+199,CUST251,2023-12-04,North,Books,Mystery Novel,7,185.36,Bank Transfer,28,1297.52
+200,CUST184,2023-09-01,East,Electronics,Blender Deluxe,3,151.14,Credit Card,19,453.41999999999996
+201,CUST125,2023-10-09,East,Food,Gaming Mouse,7,440.35,Debit Card,61,3082.4500000000003
+202,CUST212,2023-03-26,West,Home Goods,Headphones ANC,8,232.7,Credit Card,29,1861.6
+203,CUST125,2023-05-16,East,Books,Laptop Pro,6,52.05,Credit Card,47,312.29999999999995
+204,CUST234,2023-09-28,North,Books,Coffee Maker,9,414.24,PayPal,53,3728.16
+205,CUST216,2023-11-07,West,Clothing,T-Shirt V-Neck,6,28.58,Credit Card,35,171.48
+206,CUST103,2023-08-05,North,Clothing,Mystery Novel,9,364.74,Bank Transfer,43,3282.66
+207,CUST284,2023-04-19,West,Food,Headphones ANC,4,388.08,PayPal,24,1552.32
+208,CUST136,2023-10-04,West,Food,Coffee Maker,8,179.54,Credit Card,18,1436.32
+209,CUST204,2023-12-20,South,Electronics,Gaming Mouse,4,413.27,Debit Card,43,1653.08
+210,CUST267,2023-04-13,North,Electronics,Sci-Fi Classic,2,260.25,Credit Card,40,520.5
+211,CUST139,2023-06-09,East,Food,Dining Table Set,9,234.33,Credit Card,43,2108.9700000000003
+212,CUST119,2023-07-24,East,Food,Sci-Fi Classic,5,27.47,Credit Card,62,137.35
+213,CUST220,2023-12-10,North,Home Goods,Headphones ANC,4,148.56,PayPal,23,594.24
+214,CUST300,2023-11-29,East,Clothing,Sci-Fi Classic,2,465.85,Bank Transfer,23,931.7
+215,CUST167,2023-07-11,East,Electronics,Laptop Pro,1,198.95,Debit Card,61,198.95
+216,CUST186,2023-08-13,North,Clothing,Laptop Pro,7,275.62,Credit Card,25,1929.3400000000001
+217,CUST259,2023-09-22,West,Clothing,Blender Deluxe,6,268.35,Bank Transfer,41,1610.1000000000001
+218,CUST277,2023-08-20,North,Food,Headphones ANC,2,297.26,Bank Transfer,39,594.52
+219,CUST201,2023-03-03,West,Home Goods,Blender Deluxe,8,35.36,PayPal,36,282.88
+220,CUST266,2023-05-07,East,Books,Headphones ANC,4,184.28,Debit Card,54,737.12
+221,CUST120,2023-04-26,East,Home Goods,Dining Table Set,8,362.95,PayPal,35,2903.6
+222,CUST184,2023-02-02,East,Home Goods,Dining Table Set,7,104.28,Bank Transfer,48,729.96
+223,CUST272,2023-06-23,South,Clothing,T-Shirt V-Neck,5,105.77,Bank Transfer,54,528.85
+224,CUST236,2023-01-11,West,Home Goods,Headphones ANC,8,9.99,Bank Transfer,47,79.92
+225,CUST197,2023-10-29,South,Electronics,Gaming Mouse,9,221.55,PayPal,59,1993.95
+226,CUST181,2023-10-11,South,Clothing,Cookbook Veggie,5,441.95,Debit Card,50,2209.75
+227,CUST260,2023-04-28,North,Electronics,Mystery Novel,5,30.69,Credit Card,27,153.45000000000002
+228,CUST283,2023-10-29,South,Books,Smartphone X,2,99.6,PayPal,54,199.2
+229,CUST294,2023-04-23,North,Clothing,Sneakers Urban,5,158.49,Bank Transfer,29,792.45
+230,CUST224,2023-01-04,North,Books,Smartphone X,3,367.2,PayPal,47,1101.6
+231,CUST238,2023-02-06,South,Clothing,Coffee Maker,7,322.11,Bank Transfer,44,2254.77
+232,CUST109,2023-12-29,West,Food,Dining Table Set,5,210.89,Credit Card,56,1054.4499999999998
+233,CUST258,2023-11-20,West,Home Goods,Sci-Fi Classic,8,380.74,Credit Card,26,3045.92
+234,CUST117,2023-01-31,West,Food,Mystery Novel,1,306.77,Debit Card,38,306.77
+235,CUST160,2023-04-28,West,Books,Organic Apples,3,448.54,Bank Transfer,29,1345.6200000000001
+236,CUST261,2023-02-04,West,Home Goods,Cookbook Veggie,3,409.92,Debit Card,46,1229.76
+237,CUST275,2023-01-17,South,Clothing,Laptop Pro,9,130.14,Debit Card,50,1171.2599999999998
+238,CUST173,2023-06-19,South,Home Goods,Jeans Slim Fit,5,139.36,Credit Card,60,696.8000000000001
+239,CUST158,2023-02-06,East,Electronics,E-Reader Basic,9,67.05,PayPal,32,603.4499999999999
+240,CUST291,2023-09-21,West,Home Goods,T-Shirt V-Neck,9,171.8,PayPal,19,1546.2
+241,CUST123,2023-05-02,South,Electronics,Sci-Fi Classic,1,499.77,Debit Card,69,499.77
+242,CUST211,2023-05-23,East,Home Goods,Sci-Fi Classic,2,205.85,Credit Card,56,411.7
+243,CUST125,2023-12-09,West,Electronics,Gaming Mouse,5,114.14,Bank Transfer,61,570.7
+244,CUST294,2023-09-06,North,Books,Sci-Fi Classic,4,382.43,PayPal,35,1529.72
+245,CUST262,2023-04-20,East,Food,Laptop Pro,9,273.52,Debit Card,20,2461.68
+246,CUST280,2023-10-04,South,Clothing,Laptop Pro,7,79.05,PayPal,24,553.35
+247,CUST125,2023-03-09,North,Home Goods,E-Reader Basic,6,193.44,PayPal,60,1160.6399999999999
+248,CUST213,2023-10-20,North,Food,Sneakers Urban,7,210.16,Bank Transfer,35,1471.12
+249,CUST142,2023-10-23,North,Clothing,Headphones ANC,1,378.15,Credit Card,61,378.15
+250,CUST277,2023-08-31,East,Clothing,Organic Apples,1,15.23,Bank Transfer,55,15.23
+251,CUST176,2023-05-05,South,Electronics,Mystery Novel,8,138.16,Credit Card,54,1105.28
+252,CUST107,2023-08-31,North,Books,Sci-Fi Classic,2,261.21,PayPal,50,522.42
+253,CUST111,2023-07-28,West,Books,Smartphone X,9,138.08,Debit Card,61,1242.72
+254,CUST183,2023-04-08,North,Food,Blender Deluxe,7,316.07,Bank Transfer,48,2212.49
+255,CUST114,2023-02-18,North,Books,Gaming Mouse,6,243.52,Credit Card,28,1461.1200000000001
+256,CUST175,2023-02-19,East,Home Goods,Gaming Mouse,1,184.05,PayPal,21,184.05
+257,CUST191,2023-12-04,East,Books,Sneakers Urban,1,474.86,Credit Card,35,474.86
+258,CUST195,2023-08-09,South,Food,Smartphone X,2,317.92,Credit Card,21,635.84
+259,CUST210,2023-07-01,West,Books,Coffee Maker,6,69.32,Credit Card,66,415.91999999999996
+260,CUST137,2023-08-05,East,Home Goods,Smartphone X,6,282.25,PayPal,51,1693.5
+261,CUST162,2023-07-30,North,Electronics,Cookbook Veggie,2,391.46,Debit Card,46,782.92
+262,CUST235,2023-08-28,South,Food,Coffee Maker,1,355.7,Debit Card,41,355.7
+263,CUST205,2023-01-28,North,Electronics,Jeans Slim Fit,5,90.18,Debit Card,39,450.90000000000003
+264,CUST244,2023-12-11,North,Electronics,Dining Table Set,5,486.35,Credit Card,19,2431.75
+265,CUST274,2023-12-01,East,Electronics,Blender Deluxe,2,227.16,PayPal,61,454.32
+266,CUST146,2023-11-27,South,Clothing,Dining Table Set,6,83.72,Credit Card,23,502.32
+267,CUST143,2023-02-20,West,Clothing,Gaming Mouse,9,94.2,Debit Card,59,847.8000000000001
+268,CUST144,2023-02-01,West,Electronics,Smartphone X,2,53.63,Debit Card,42,107.26
+269,CUST120,2023-07-26,East,Food,Jeans Slim Fit,2,402.74,PayPal,38,805.48
+270,CUST256,2023-06-23,East,Home Goods,Headphones ANC,3,65.41,Credit Card,33,196.23
+271,CUST197,2023-02-25,South,Home Goods,T-Shirt V-Neck,7,66.94,Bank Transfer,48,468.58
+272,CUST258,2023-05-08,West,Books,Mystery Novel,6,425.98,Bank Transfer,31,2555.88
+273,CUST274,2023-04-09,West,Food,Jeans Slim Fit,8,175.58,Debit Card,56,1404.64
+274,CUST161,2023-04-08,West,Clothing,Sneakers Urban,8,20.27,PayPal,45,162.16
+275,CUST227,2023-10-02,North,Electronics,Cookbook Veggie,6,30.69,Credit Card,49,184.14000000000001
+276,CUST249,2023-08-18,West,Books,Mystery Novel,3,75.37,Credit Card,45,226.11
+277,CUST136,2023-03-13,North,Home Goods,Smartphone X,3,110.63,Debit Card,68,331.89
+278,CUST159,2023-08-05,South,Clothing,Organic Apples,1,334.25,Debit Card,66,334.25
+279,CUST218,2023-04-04,North,Clothing,Headphones ANC,7,82.88,Credit Card,26,580.16
+280,CUST263,2023-05-23,South,Electronics,Jeans Slim Fit,5,63.84,Credit Card,62,319.20000000000005
+281,CUST165,2023-08-25,West,Home Goods,Blender Deluxe,4,383.54,Debit Card,39,1534.16
+282,CUST217,2023-05-08,West,Food,Smartphone X,4,337.17,Credit Card,49,1348.68
+283,CUST165,2023-02-08,South,Clothing,Sci-Fi Classic,4,220.49,Bank Transfer,22,881.96
+284,CUST270,2023-08-15,East,Electronics,Laptop Pro,6,276.91,Debit Card,40,1661.46
+285,CUST102,2023-10-09,South,Food,Jeans Slim Fit,8,159.43,Credit Card,22,1275.44
+286,CUST219,2023-02-20,East,Home Goods,Blender Deluxe,8,243.84,Debit Card,59,1950.72
+287,CUST173,2023-01-26,North,Clothing,Cookbook Veggie,5,255.8,PayPal,49,1279.0
+288,CUST273,2023-11-30,North,Food,T-Shirt V-Neck,6,196.68,Debit Card,27,1180.08
+289,CUST239,2023-10-04,North,Food,Sci-Fi Classic,4,453.75,Debit Card,56,1815.0
+290,CUST140,2023-01-08,West,Food,Dining Table Set,9,12.95,PayPal,32,116.55
+291,CUST118,2023-02-17,North,Clothing,T-Shirt V-Neck,8,392.17,Bank Transfer,24,3137.36
+292,CUST213,2023-05-02,East,Clothing,Dining Table Set,1,66.57,Credit Card,46,66.57
+293,CUST188,2023-03-27,North,Books,Smartphone X,2,399.79,PayPal,64,799.58
+294,CUST250,2023-07-28,South,Home Goods,Laptop Pro,9,309.88,Debit Card,20,2788.92
+295,CUST176,2023-09-06,South,Electronics,Jeans Slim Fit,8,422.42,Credit Card,36,3379.36
+296,CUST263,2023-09-04,West,Food,Jeans Slim Fit,3,53.27,PayPal,27,159.81
+297,CUST208,2023-04-20,South,Books,Organic Apples,8,281.7,Credit Card,45,2253.6
+298,CUST276,2023-07-25,East,Electronics,Gaming Mouse,1,253.04,Credit Card,46,253.04
+299,CUST164,2023-01-31,North,Books,Organic Apples,4,354.57,PayPal,32,1418.28
+300,CUST216,2023-03-26,West,Clothing,Sneakers Urban,3,269.47,Credit Card,52,808.4100000000001
+301,CUST177,2023-07-14,North,Food,Smartphone X,6,272.66,Bank Transfer,23,1635.96
+302,CUST150,2023-01-02,North,Electronics,Smartphone X,7,217.65,PayPal,29,1523.55
+303,CUST198,2023-07-19,East,Electronics,Laptop Pro,4,157.87,Bank Transfer,64,631.48
+304,CUST223,2023-05-16,South,Electronics,Organic Apples,7,243.72,Debit Card,55,1706.04
+305,CUST127,2023-08-21,South,Electronics,Blender Deluxe,9,63.65,Credit Card,30,572.85
+306,CUST160,2023-05-27,North,Electronics,Dining Table Set,2,480.95,Debit Card,46,961.9
+307,CUST197,2023-08-05,West,Books,Blender Deluxe,3,358.63,Debit Card,36,1075.8899999999999
+308,CUST246,2023-12-23,South,Food,Laptop Pro,5,476.47,Credit Card,20,2382.3500000000004
+309,CUST191,2023-10-12,West,Clothing,Headphones ANC,3,117.23,PayPal,25,351.69
+310,CUST247,2023-12-05,South,Clothing,Gaming Mouse,8,440.27,Credit Card,25,3522.16
+311,CUST175,2023-09-07,West,Clothing,Blender Deluxe,8,405.35,Debit Card,37,3242.8
+312,CUST279,2023-03-21,East,Clothing,Coffee Maker,8,340.19,Debit Card,64,2721.52
+313,CUST175,2023-04-08,West,Books,Sneakers Urban,9,314.39,PayPal,21,2829.5099999999998
+314,CUST105,2023-06-01,East,Home Goods,Mystery Novel,4,161.69,Credit Card,68,646.76
+315,CUST268,2023-04-22,East,Food,Laptop Pro,5,409.12,Debit Card,38,2045.6
+316,CUST201,2023-01-30,West,Electronics,Laptop Pro,5,253.25,Bank Transfer,20,1266.25
+317,CUST170,2023-10-24,East,Home Goods,E-Reader Basic,8,40.09,Debit Card,62,320.72
+318,CUST102,2023-10-05,North,Clothing,Dining Table Set,7,159.87,Debit Card,25,1119.0900000000001
+319,CUST244,2023-02-01,East,Home Goods,Sneakers Urban,9,467.97,PayPal,40,4211.7300000000005
+320,CUST275,2023-06-10,South,Food,Sci-Fi Classic,8,426.09,Bank Transfer,33,3408.72
+321,CUST299,2023-01-30,West,Electronics,Sci-Fi Classic,2,491.04,Debit Card,30,982.08
+322,CUST290,2023-01-26,North,Electronics,Coffee Maker,4,315.86,Debit Card,20,1263.44
+323,CUST112,2023-10-27,West,Food,Organic Apples,6,127.52,Bank Transfer,65,765.12
+324,CUST255,2023-09-02,South,Food,Sneakers Urban,2,85.59,Credit Card,26,171.18
+325,CUST290,2023-09-15,South,Clothing,Headphones ANC,7,97.52,Credit Card,31,682.64
+326,CUST227,2023-09-29,South,Electronics,Smartphone X,3,14.8,Debit Card,30,44.400000000000006
+327,CUST173,2023-03-22,East,Home Goods,Smartphone X,3,198.39,Debit Card,24,595.17
+328,CUST298,2023-01-30,East,Books,T-Shirt V-Neck,2,99.76,Credit Card,32,199.52
+329,CUST158,2023-09-18,West,Books,Dining Table Set,8,208.77,PayPal,24,1670.16
+330,CUST255,2023-02-11,West,Food,Coffee Maker,6,467.82,Bank Transfer,55,2806.92
+331,CUST190,2023-04-06,North,Clothing,Laptop Pro,1,218.12,Bank Transfer,51,218.12
+332,CUST156,2023-02-05,North,Books,Coffee Maker,1,439.6,PayPal,58,439.6
+333,CUST262,2023-11-01,West,Electronics,Coffee Maker,7,304.72,PayPal,39,2133.04
+334,CUST148,2023-02-04,East,Food,Cookbook Veggie,8,127.33,PayPal,41,1018.64
+335,CUST258,2023-12-12,South,Home Goods,Coffee Maker,5,181.15,PayPal,66,905.75
+336,CUST164,2023-05-01,West,Food,Sci-Fi Classic,5,46.54,PayPal,54,232.7
+337,CUST273,2023-07-26,North,Home Goods,Cookbook Veggie,4,170.06,PayPal,61,680.24
+338,CUST293,2023-03-03,East,Food,Dining Table Set,6,340.38,Bank Transfer,18,2042.28
+339,CUST284,2023-10-19,West,Food,Coffee Maker,6,40.69,PayPal,27,244.14
+340,CUST296,2023-05-07,West,Food,Gaming Mouse,3,106.67,Credit Card,60,320.01
+341,CUST268,2023-10-24,East,Home Goods,Mystery Novel,9,193.81,PayPal,33,1744.29
+342,CUST274,2023-11-01,West,Home Goods,Smartphone X,7,491.11,PayPal,63,3437.77
+343,CUST135,2023-01-21,East,Food,Cookbook Veggie,1,393.51,Bank Transfer,25,393.51
+344,CUST260,2023-11-14,South,Books,T-Shirt V-Neck,7,368.08,Bank Transfer,66,2576.56
+345,CUST124,2023-02-11,East,Clothing,Sneakers Urban,5,62.51,PayPal,42,312.55
+346,CUST260,2023-08-03,East,Clothing,Mystery Novel,5,391.59,Bank Transfer,67,1957.9499999999998
+347,CUST265,2023-12-03,East,Clothing,T-Shirt V-Neck,2,393.71,Debit Card,29,787.42
+348,CUST110,2023-10-26,West,Home Goods,E-Reader Basic,4,302.55,Bank Transfer,42,1210.2
+349,CUST179,2023-10-17,West,Home Goods,T-Shirt V-Neck,6,495.23,Bank Transfer,34,2971.38
+350,CUST212,2023-09-25,East,Books,Smartphone X,7,166.0,Bank Transfer,43,1162.0
+351,CUST108,2023-06-11,West,Clothing,Smartphone X,5,470.93,Bank Transfer,63,2354.65
+352,CUST248,2023-05-14,North,Clothing,Cookbook Veggie,9,457.79,Credit Card,65,4120.110000000001
+353,CUST193,2023-04-15,North,Food,Coffee Maker,3,10.68,Credit Card,31,32.04
+354,CUST287,2023-12-09,West,Home Goods,Jeans Slim Fit,1,227.81,Credit Card,58,227.81
+355,CUST133,2023-06-10,West,Clothing,E-Reader Basic,4,488.67,PayPal,53,1954.68
+356,CUST123,2023-05-03,East,Books,Cookbook Veggie,9,56.05,PayPal,40,504.45
+357,CUST175,2023-05-16,South,Books,Gaming Mouse,4,276.15,Debit Card,60,1104.6
+358,CUST183,2023-07-22,West,Clothing,Laptop Pro,2,489.58,Credit Card,23,979.16
+359,CUST291,2023-03-09,North,Home Goods,Blender Deluxe,5,279.97,PayPal,64,1399.8500000000001
+360,CUST206,2023-12-10,East,Books,Sneakers Urban,3,98.96,Bank Transfer,22,296.88
+361,CUST144,2023-11-27,West,Food,T-Shirt V-Neck,9,293.18,Bank Transfer,60,2638.62
+362,CUST151,2023-06-03,North,Books,Jeans Slim Fit,4,106.2,Credit Card,42,424.8
+363,CUST133,2023-08-23,North,Electronics,Coffee Maker,6,262.25,Debit Card,35,1573.5
+364,CUST238,2023-06-11,South,Electronics,Sci-Fi Classic,2,41.65,Debit Card,30,83.3
+365,CUST193,2023-02-07,East,Home Goods,Dining Table Set,6,304.71,Bank Transfer,60,1828.2599999999998
+366,CUST235,2023-01-05,East,Clothing,Laptop Pro,3,260.81,Debit Card,31,782.4300000000001
+367,CUST228,2023-08-23,South,Home Goods,Headphones ANC,9,371.38,Credit Card,45,3342.42
+368,CUST169,2023-11-15,South,Home Goods,Organic Apples,2,317.2,Bank Transfer,35,634.4
+369,CUST142,2023-10-16,East,Home Goods,Jeans Slim Fit,9,277.06,PayPal,45,2493.54
+370,CUST165,2023-02-21,East,Home Goods,Dining Table Set,5,346.44,PayPal,68,1732.2
+371,CUST223,2023-02-07,West,Food,Sci-Fi Classic,8,76.25,Debit Card,44,610.0
+372,CUST175,2023-10-03,West,Food,E-Reader Basic,2,299.7,Bank Transfer,49,599.4
+373,CUST291,2023-04-20,South,Books,Headphones ANC,6,90.19,Bank Transfer,64,541.14
+374,CUST186,2023-09-17,West,Electronics,Cookbook Veggie,3,463.13,PayPal,26,1389.3899999999999
+375,CUST129,2023-05-16,North,Home Goods,Coffee Maker,5,38.83,Bank Transfer,57,194.14999999999998
+376,CUST219,2023-03-09,West,Books,Laptop Pro,8,218.04,Bank Transfer,49,1744.32
+377,CUST119,2023-06-28,West,Electronics,Laptop Pro,1,349.42,Bank Transfer,37,349.42
+378,CUST136,2023-02-05,North,Clothing,Laptop Pro,5,231.72,Debit Card,45,1158.6
+379,CUST293,2023-05-06,South,Food,E-Reader Basic,3,50.59,Bank Transfer,50,151.77
+380,CUST157,2023-07-09,North,Electronics,Headphones ANC,4,278.92,Credit Card,21,1115.68
+381,CUST273,2023-05-26,West,Clothing,T-Shirt V-Neck,2,322.61,Debit Card,63,645.22
+382,CUST285,2023-03-22,South,Electronics,Organic Apples,9,353.38,Bank Transfer,51,3180.42
+383,CUST272,2023-08-13,West,Food,Gaming Mouse,3,189.76,Bank Transfer,65,569.28
+384,CUST201,2023-10-06,North,Food,E-Reader Basic,2,284.01,Credit Card,20,568.02
+385,CUST242,2023-12-27,North,Books,Blender Deluxe,9,228.09,Debit Card,43,2052.81
+386,CUST193,2023-06-04,West,Home Goods,Sneakers Urban,7,337.67,PayPal,25,2363.69
+387,CUST123,2023-11-10,East,Electronics,Sneakers Urban,6,293.86,PayPal,23,1763.16
+388,CUST201,2023-12-01,East,Electronics,Organic Apples,1,265.25,Debit Card,33,265.25
+389,CUST103,2023-09-28,North,Clothing,Smartphone X,5,128.51,Bank Transfer,41,642.55
+390,CUST167,2023-01-05,North,Food,Sneakers Urban,3,6.0,Bank Transfer,65,18.0
+391,CUST237,2023-12-08,East,Electronics,Coffee Maker,1,91.17,PayPal,56,91.17
+392,CUST131,2023-10-11,East,Food,E-Reader Basic,4,62.95,PayPal,47,251.8
+393,CUST216,2023-06-03,West,Electronics,Sci-Fi Classic,2,227.3,PayPal,62,454.6
+394,CUST194,2023-12-06,West,Books,Organic Apples,2,308.07,Credit Card,30,616.14
+395,CUST272,2023-02-23,East,Home Goods,Blender Deluxe,3,110.48,PayPal,22,331.44
+396,CUST291,2023-03-10,West,Electronics,Smartphone X,8,469.83,Credit Card,42,3758.64
+397,CUST272,2023-05-16,West,Food,T-Shirt V-Neck,8,8.31,Debit Card,37,66.48
+398,CUST167,2023-03-01,South,Books,Headphones ANC,7,387.29,Bank Transfer,35,2711.03
+399,CUST249,2023-02-24,West,Electronics,Sci-Fi Classic,6,314.48,PayPal,64,1886.88
+400,CUST197,2023-10-11,North,Clothing,Cookbook Veggie,9,189.91,Bank Transfer,35,1709.19
+401,CUST263,2023-03-21,West,Home Goods,Organic Apples,4,29.99,Bank Transfer,19,119.96
+402,CUST195,2023-05-20,West,Electronics,Coffee Maker,1,315.61,PayPal,27,315.61
+403,CUST127,2023-05-25,East,Books,Headphones ANC,8,195.88,PayPal,62,1567.04
+404,CUST272,2023-11-06,North,Clothing,Sci-Fi Classic,7,468.45,Debit Card,67,3279.15
+405,CUST159,2023-04-18,West,Books,Smartphone X,7,273.29,Credit Card,64,1913.0300000000002
+406,CUST220,2023-06-25,West,Books,Sci-Fi Classic,3,470.13,Credit Card,29,1410.3899999999999
+407,CUST106,2023-04-15,South,Clothing,Dining Table Set,4,114.14,Bank Transfer,64,456.56
+408,CUST258,2023-12-18,West,Books,Headphones ANC,9,364.23,PayPal,30,3278.07
+409,CUST243,2023-11-21,West,Clothing,Mystery Novel,6,310.54,Debit Card,67,1863.2400000000002
+410,CUST183,2023-05-16,South,Electronics,Dining Table Set,5,371.01,Debit Card,64,1855.05
+411,CUST256,2023-09-16,East,Clothing,Gaming Mouse,3,111.26,Debit Card,28,333.78000000000003
+412,CUST156,2023-09-08,West,Clothing,Jeans Slim Fit,9,334.17,Debit Card,36,3007.53
+413,CUST265,2023-05-09,South,Home Goods,T-Shirt V-Neck,5,251.53,Debit Card,52,1257.65
+414,CUST116,2023-01-27,North,Clothing,Sneakers Urban,5,372.7,Credit Card,56,1863.5
+415,CUST262,2023-02-17,East,Clothing,Smartphone X,4,166.89,Credit Card,43,667.56
+416,CUST218,2023-11-21,North,Electronics,Headphones ANC,4,445.58,Credit Card,63,1782.32
+417,CUST279,2023-08-05,North,Home Goods,Gaming Mouse,1,46.73,PayPal,31,46.73
+418,CUST177,2023-05-22,South,Food,Gaming Mouse,7,404.56,Bank Transfer,62,2831.92
+419,CUST266,2023-01-23,West,Electronics,Cookbook Veggie,9,431.35,Debit Card,61,3882.15
+420,CUST204,2023-01-02,South,Electronics,Sci-Fi Classic,3,409.54,PayPal,41,1228.6200000000001
+421,CUST129,2023-06-20,South,Food,Jeans Slim Fit,2,258.8,Debit Card,58,517.6
+422,CUST135,2023-03-08,South,Clothing,Gaming Mouse,3,222.0,Credit Card,18,666.0
+423,CUST111,2023-11-23,South,Books,Jeans Slim Fit,1,498.15,PayPal,68,498.15
+424,CUST109,2023-05-15,East,Home Goods,Dining Table Set,6,118.44,Credit Card,60,710.64
+425,CUST177,2023-03-24,West,Books,Sci-Fi Classic,7,275.7,Debit Card,39,1929.8999999999999
+426,CUST226,2023-08-15,North,Food,Headphones ANC,2,336.98,Debit Card,40,673.96
+427,CUST129,2023-10-10,North,Electronics,Dining Table Set,8,351.93,Bank Transfer,36,2815.44
+428,CUST124,2023-12-28,West,Electronics,Coffee Maker,6,105.99,Debit Card,35,635.9399999999999
+429,CUST160,2023-08-07,North,Home Goods,Mystery Novel,4,328.73,Credit Card,29,1314.92
+430,CUST237,2023-10-15,West,Electronics,Gaming Mouse,5,410.09,Debit Card,45,2050.45
+431,CUST134,2023-01-05,North,Electronics,E-Reader Basic,8,29.76,Bank Transfer,45,238.08
+432,CUST199,2023-02-27,South,Home Goods,Dining Table Set,3,456.2,Bank Transfer,50,1368.6
+433,CUST216,2023-02-08,North,Home Goods,Mystery Novel,3,19.6,Credit Card,36,58.800000000000004
+434,CUST194,2023-12-20,West,Food,Sci-Fi Classic,4,181.21,PayPal,45,724.84
+435,CUST271,2023-03-18,West,Electronics,Cookbook Veggie,1,12.83,Debit Card,69,12.83
+436,CUST290,2023-10-07,West,Electronics,T-Shirt V-Neck,9,43.19,Bank Transfer,66,388.71
+437,CUST278,2023-01-19,West,Food,E-Reader Basic,8,456.03,Debit Card,54,3648.24
+438,CUST238,2023-07-09,West,Clothing,Smartphone X,8,180.66,Debit Card,43,1445.28
+439,CUST207,2023-10-26,East,Clothing,Sneakers Urban,6,215.26,PayPal,52,1291.56
+440,CUST250,2023-10-10,East,Clothing,Cookbook Veggie,7,111.6,Bank Transfer,51,781.1999999999999
+441,CUST290,2023-03-17,North,Food,Mystery Novel,6,300.56,Debit Card,52,1803.3600000000001
+442,CUST286,2023-08-09,West,Electronics,Sci-Fi Classic,9,299.43,Bank Transfer,57,2694.87
+443,CUST139,2023-03-07,North,Food,Mystery Novel,3,189.24,Credit Card,33,567.72
+444,CUST206,2023-01-22,West,Food,Sneakers Urban,3,169.85,Credit Card,55,509.54999999999995
+445,CUST267,2023-06-07,West,Clothing,Gaming Mouse,3,443.06,Debit Card,30,1329.18
+446,CUST125,2023-07-06,East,Books,Cookbook Veggie,3,194.73,Bank Transfer,40,584.1899999999999
+447,CUST225,2023-01-21,East,Electronics,Dining Table Set,9,249.28,Debit Card,39,2243.52
+448,CUST257,2023-07-03,South,Clothing,Headphones ANC,4,145.24,Bank Transfer,33,580.96
+449,CUST204,2023-04-18,East,Books,E-Reader Basic,7,394.45,Bank Transfer,45,2761.15
+450,CUST171,2023-12-16,South,Books,Blender Deluxe,9,201.74,PayPal,65,1815.66
+451,CUST108,2023-05-08,South,Home Goods,Organic Apples,7,259.24,PayPal,52,1814.68
+452,CUST276,2023-12-08,South,Electronics,Mystery Novel,9,130.41,PayPal,62,1173.69
+453,CUST194,2023-02-22,South,Books,Sneakers Urban,3,493.89,Debit Card,63,1481.67
+454,CUST155,2023-07-01,South,Clothing,Smartphone X,4,149.29,PayPal,25,597.16
+455,CUST213,2023-10-14,North,Home Goods,Smartphone X,8,386.52,PayPal,61,3092.16
+456,CUST213,2023-07-28,East,Electronics,Laptop Pro,6,216.61,Credit Card,39,1299.66
+457,CUST160,2023-11-14,South,Food,Cookbook Veggie,5,107.08,Bank Transfer,38,535.4
+458,CUST192,2023-03-21,West,Clothing,Mystery Novel,4,400.86,Bank Transfer,43,1603.44
+459,CUST125,2023-05-02,East,Books,Organic Apples,8,170.14,PayPal,57,1361.12
+460,CUST275,2023-03-25,East,Books,Coffee Maker,1,433.27,Bank Transfer,38,433.27
+461,CUST194,2023-04-01,South,Clothing,Sneakers Urban,9,458.05,Credit Card,42,4122.45
+462,CUST239,2023-07-31,North,Books,Gaming Mouse,1,430.61,Credit Card,58,430.61
+463,CUST265,2023-01-13,South,Home Goods,Jeans Slim Fit,8,22.33,PayPal,18,178.64
+464,CUST191,2023-04-02,North,Electronics,Dining Table Set,4,394.75,Credit Card,23,1579.0
+465,CUST115,2023-06-20,West,Home Goods,Headphones ANC,9,208.61,Bank Transfer,40,1877.4900000000002
+466,CUST201,2023-07-30,East,Books,Organic Apples,5,437.49,Debit Card,68,2187.45
+467,CUST170,2023-12-09,West,Food,Jeans Slim Fit,3,320.79,Bank Transfer,40,962.3700000000001
+468,CUST148,2023-05-08,North,Electronics,Cookbook Veggie,9,417.65,Debit Card,60,3758.85
+469,CUST131,2023-05-17,North,Electronics,Dining Table Set,9,252.22,PayPal,60,2269.98
+470,CUST216,2023-03-23,West,Clothing,Jeans Slim Fit,4,269.84,Debit Card,40,1079.36
+471,CUST123,2023-12-26,North,Clothing,Dining Table Set,4,76.47,Credit Card,49,305.88
+472,CUST269,2023-02-25,West,Food,Blender Deluxe,8,393.07,Bank Transfer,47,3144.56
+473,CUST154,2023-07-15,East,Electronics,Laptop Pro,2,212.6,Debit Card,30,425.2
+474,CUST264,2023-01-20,West,Food,Organic Apples,9,252.54,Bank Transfer,60,2272.86
+475,CUST263,2023-08-29,East,Clothing,Cookbook Veggie,6,393.62,PayPal,35,2361.7200000000003
+476,CUST252,2023-04-24,West,Clothing,Organic Apples,9,301.43,PayPal,40,2712.87
+477,CUST105,2023-04-13,North,Electronics,Blender Deluxe,8,104.54,Credit Card,32,836.32
+478,CUST112,2023-08-24,West,Home Goods,Mystery Novel,7,297.17,PayPal,50,2080.19
+479,CUST185,2023-06-29,North,Books,Mystery Novel,1,206.78,Debit Card,38,206.78
+480,CUST162,2023-06-06,West,Clothing,Mystery Novel,3,237.42,PayPal,56,712.26
+481,CUST132,2023-04-27,West,Clothing,T-Shirt V-Neck,2,19.01,Credit Card,40,38.02
+482,CUST244,2023-04-25,South,Home Goods,Jeans Slim Fit,5,108.96,Bank Transfer,44,544.8
+483,CUST152,2023-01-13,North,Home Goods,T-Shirt V-Neck,5,144.11,Bank Transfer,62,720.5500000000001
+484,CUST117,2023-12-04,South,Food,Laptop Pro,5,357.92,PayPal,61,1789.6000000000001
+485,CUST295,2023-04-09,North,Food,Headphones ANC,4,10.69,Debit Card,35,42.76
+486,CUST241,2023-07-24,South,Books,Blender Deluxe,5,207.34,Credit Card,41,1036.7
+487,CUST153,2023-06-18,East,Books,Cookbook Veggie,3,462.39,Debit Card,68,1387.17
+488,CUST250,2023-05-23,West,Electronics,Organic Apples,1,60.38,Credit Card,64,60.38
+489,CUST155,2023-02-05,North,Food,Dining Table Set,5,260.63,PayPal,57,1303.15
+490,CUST159,2023-05-23,North,Clothing,Gaming Mouse,9,394.33,Credit Card,68,3548.97
+491,CUST184,2023-06-29,West,Food,Cookbook Veggie,9,471.55,Credit Card,59,4243.95
+492,CUST298,2023-11-25,North,Clothing,Jeans Slim Fit,4,374.65,PayPal,24,1498.6
+493,CUST137,2023-09-18,North,Home Goods,T-Shirt V-Neck,3,361.68,Debit Card,67,1085.04
+494,CUST252,2023-07-24,South,Food,T-Shirt V-Neck,1,414.11,PayPal,65,414.11
+495,CUST100,2023-12-14,North,Home Goods,Sci-Fi Classic,2,225.87,Credit Card,37,451.74
+496,CUST170,2023-10-02,East,Books,T-Shirt V-Neck,8,403.89,PayPal,44,3231.12
+497,CUST137,2023-06-19,East,Books,Headphones ANC,1,8.94,Credit Card,23,8.94
+498,CUST133,2023-01-15,West,Electronics,Coffee Maker,8,462.66,PayPal,44,3701.28
+499,CUST238,2023-03-01,North,Food,Organic Apples,7,224.44,Bank Transfer,26,1571.08
+500,CUST164,2023-05-14,West,Home Goods,Coffee Maker,8,278.92,Bank Transfer,62,2231.36
+501,CUST144,2023-04-02,East,Clothing,Dining Table Set,6,131.17,PayPal,48,787.02
+502,CUST128,2023-10-25,North,Books,Organic Apples,9,372.55,Debit Card,38,3352.9500000000003
+503,CUST269,2023-05-16,North,Books,Blender Deluxe,3,42.93,Credit Card,43,128.79
+504,CUST106,2023-01-20,West,Clothing,Organic Apples,4,436.95,Bank Transfer,57,1747.8
+505,CUST133,2023-02-25,East,Home Goods,Coffee Maker,6,414.92,Debit Card,65,2489.52
+506,CUST103,2023-11-02,North,Home Goods,Cookbook Veggie,8,111.95,Credit Card,62,895.6
+507,CUST191,2023-08-11,West,Food,Organic Apples,5,405.62,Bank Transfer,30,2028.1
+508,CUST160,2023-06-26,East,Food,Blender Deluxe,3,394.25,Bank Transfer,66,1182.75
+509,CUST250,2023-06-10,West,Electronics,Blender Deluxe,6,317.95,PayPal,40,1907.6999999999998
+510,CUST182,2023-08-12,South,Books,Laptop Pro,4,189.89,Credit Card,37,759.56
+511,CUST104,2023-11-07,North,Food,Organic Apples,9,139.39,Debit Card,54,1254.5099999999998
+512,CUST144,2023-09-19,South,Home Goods,Gaming Mouse,3,119.73,Debit Card,45,359.19
+513,CUST167,2023-03-01,East,Clothing,Sci-Fi Classic,4,162.71,Debit Card,34,650.84
+514,CUST113,2023-07-17,South,Home Goods,Mystery Novel,7,452.26,Credit Card,45,3165.8199999999997
+515,CUST132,2023-10-23,South,Books,Smartphone X,7,43.43,Debit Card,58,304.01
+516,CUST289,2023-04-08,East,Home Goods,Blender Deluxe,4,415.29,Debit Card,19,1661.16
+517,CUST207,2023-05-11,West,Electronics,E-Reader Basic,6,177.7,Debit Card,42,1066.1999999999998
+518,CUST234,2023-01-23,South,Books,Mystery Novel,3,263.19,PayPal,67,789.5699999999999
+519,CUST129,2023-12-29,West,Clothing,Headphones ANC,6,398.27,PayPal,58,2389.62
+520,CUST290,2023-08-12,South,Electronics,Jeans Slim Fit,2,442.77,Credit Card,23,885.54
+521,CUST116,2023-01-01,West,Books,Organic Apples,8,175.67,Credit Card,28,1405.36
+522,CUST221,2023-09-24,East,Clothing,Coffee Maker,2,233.61,Debit Card,55,467.22
+523,CUST214,2023-10-03,South,Electronics,Smartphone X,7,210.19,PayPal,23,1471.33
+524,CUST299,2023-12-18,East,Electronics,E-Reader Basic,9,11.56,Bank Transfer,62,104.04
+525,CUST192,2023-12-10,South,Books,Mystery Novel,1,151.49,Bank Transfer,28,151.49
+526,CUST231,2023-04-11,East,Food,Organic Apples,8,232.3,Debit Card,31,1858.4
+527,CUST251,2023-07-06,East,Electronics,Laptop Pro,7,208.49,Debit Card,19,1459.43
+528,CUST127,2023-08-09,South,Electronics,Jeans Slim Fit,6,362.35,PayPal,57,2174.1000000000004
+529,CUST215,2023-02-05,South,Clothing,Smartphone X,6,195.48,PayPal,20,1172.8799999999999
+530,CUST228,2023-12-07,South,Home Goods,Sci-Fi Classic,6,247.24,PayPal,52,1483.44
+531,CUST156,2023-06-19,North,Books,Dining Table Set,9,217.66,Credit Card,50,1958.94
+532,CUST257,2023-11-16,West,Books,Laptop Pro,2,371.61,Credit Card,41,743.22
+533,CUST111,2023-06-10,North,Food,E-Reader Basic,1,432.17,Debit Card,36,432.17
+534,CUST286,2023-12-06,North,Food,Headphones ANC,6,268.29,Credit Card,35,1609.7400000000002
+535,CUST300,2023-03-05,East,Books,Smartphone X,8,395.77,PayPal,66,3166.16
+536,CUST268,2023-06-03,South,Food,Laptop Pro,3,151.91,PayPal,69,455.73
+537,CUST233,2023-09-17,West,Clothing,Jeans Slim Fit,1,272.98,Credit Card,41,272.98
+538,CUST177,2023-06-08,East,Books,Sci-Fi Classic,9,175.89,Bank Transfer,62,1583.0099999999998
+539,CUST217,2023-12-08,North,Food,Laptop Pro,1,210.03,Debit Card,52,210.03
+540,CUST264,2023-07-29,South,Books,T-Shirt V-Neck,3,367.54,Bank Transfer,18,1102.6200000000001
+541,CUST107,2023-06-17,East,Home Goods,Sci-Fi Classic,8,441.42,Debit Card,53,3531.36
+542,CUST115,2023-07-26,South,Electronics,Dining Table Set,3,65.14,Bank Transfer,42,195.42000000000002
+543,CUST222,2023-12-23,East,Books,E-Reader Basic,4,319.15,Credit Card,62,1276.6
+544,CUST202,2023-06-01,South,Electronics,Headphones ANC,8,293.16,Debit Card,66,2345.28
+545,CUST209,2023-10-11,North,Food,Jeans Slim Fit,1,63.62,Debit Card,60,63.62
+546,CUST275,2023-03-07,West,Electronics,Gaming Mouse,6,109.89,Debit Card,51,659.34
+547,CUST127,2023-04-09,North,Books,Organic Apples,1,158.95,PayPal,42,158.95
+548,CUST225,2023-08-04,West,Home Goods,Coffee Maker,1,87.63,PayPal,33,87.63
+549,CUST282,2023-12-07,South,Food,Sneakers Urban,8,125.65,Bank Transfer,51,1005.2
+550,CUST213,2023-07-14,East,Books,Cookbook Veggie,4,137.46,Credit Card,46,549.84
+551,CUST118,2023-12-13,North,Food,Cookbook Veggie,1,171.16,PayPal,36,171.16
+552,CUST120,2023-03-31,West,Clothing,Coffee Maker,7,375.95,Debit Card,40,2631.65
+553,CUST182,2023-11-12,North,Electronics,Sneakers Urban,5,288.1,PayPal,36,1440.5
+554,CUST255,2023-10-19,West,Clothing,Coffee Maker,5,493.19,Credit Card,42,2465.95
+555,CUST137,2023-06-04,North,Books,Smartphone X,1,210.29,PayPal,33,210.29
+556,CUST116,2023-07-27,West,Home Goods,E-Reader Basic,6,378.16,Debit Card,68,2268.96
+557,CUST132,2023-10-08,West,Food,Jeans Slim Fit,9,436.38,Bank Transfer,26,3927.42
+558,CUST170,2023-01-01,South,Electronics,Sci-Fi Classic,9,341.09,Debit Card,18,3069.81
+559,CUST259,2023-06-05,West,Food,Smartphone X,8,208.87,Credit Card,59,1670.96
+560,CUST262,2023-05-27,South,Books,E-Reader Basic,5,378.03,Bank Transfer,36,1890.1499999999999
+561,CUST249,2023-04-18,West,Food,Organic Apples,1,105.82,PayPal,50,105.82
+562,CUST240,2023-08-09,East,Electronics,T-Shirt V-Neck,9,167.14,PayPal,51,1504.2599999999998
+563,CUST282,2023-10-24,East,Books,Cookbook Veggie,1,275.61,PayPal,33,275.61
+564,CUST183,2023-11-07,East,Food,Jeans Slim Fit,8,289.83,Bank Transfer,61,2318.64
+565,CUST197,2023-12-02,West,Home Goods,Coffee Maker,5,15.96,Debit Card,57,79.80000000000001
+566,CUST252,2023-06-14,South,Books,Laptop Pro,3,472.83,Bank Transfer,35,1418.49
+567,CUST235,2023-08-27,South,Books,Gaming Mouse,7,349.83,Bank Transfer,51,2448.81
+568,CUST175,2023-08-15,West,Home Goods,Jeans Slim Fit,7,250.37,Credit Card,42,1752.5900000000001
+569,CUST216,2023-08-15,East,Clothing,Blender Deluxe,9,466.9,Bank Transfer,62,4202.099999999999
+570,CUST229,2023-12-12,East,Electronics,Headphones ANC,7,222.35,PayPal,23,1556.45
+571,CUST254,2023-04-20,South,Clothing,Sneakers Urban,3,490.32,Debit Card,38,1470.96
+572,CUST210,2023-09-19,East,Food,E-Reader Basic,1,258.58,Debit Card,23,258.58
+573,CUST125,2023-08-31,North,Home Goods,Mystery Novel,8,61.57,Debit Card,49,492.56
+574,CUST279,2023-03-28,South,Clothing,Organic Apples,3,383.58,PayPal,58,1150.74
+575,CUST129,2023-12-04,East,Books,T-Shirt V-Neck,8,341.05,PayPal,65,2728.4
+576,CUST267,2023-02-13,South,Food,Organic Apples,8,387.63,PayPal,60,3101.04
+577,CUST266,2023-05-26,North,Food,Jeans Slim Fit,5,475.96,PayPal,56,2379.7999999999997
+578,CUST296,2023-09-21,South,Clothing,Cookbook Veggie,1,389.36,PayPal,48,389.36
+579,CUST241,2023-12-06,South,Clothing,Sneakers Urban,7,307.61,Bank Transfer,59,2153.27
+580,CUST284,2023-11-21,South,Home Goods,Mystery Novel,5,429.37,PayPal,27,2146.85
+581,CUST155,2023-11-14,South,Electronics,Blender Deluxe,8,338.26,PayPal,47,2706.08
+582,CUST210,2023-06-21,North,Clothing,Sci-Fi Classic,9,207.02,PayPal,69,1863.18
+583,CUST215,2023-02-17,West,Clothing,Laptop Pro,7,443.38,PayPal,35,3103.66
+584,CUST158,2023-05-01,South,Books,Mystery Novel,7,114.84,Debit Card,41,803.88
+585,CUST205,2023-12-11,South,Food,E-Reader Basic,1,358.75,PayPal,69,358.75
+586,CUST186,2023-06-08,East,Electronics,Coffee Maker,4,441.37,Bank Transfer,26,1765.48
+587,CUST216,2023-04-26,South,Books,Blender Deluxe,2,367.0,Bank Transfer,48,734.0
+588,CUST202,2023-04-12,East,Home Goods,Laptop Pro,2,350.15,Bank Transfer,32,700.3
+589,CUST206,2023-03-17,West,Home Goods,Gaming Mouse,2,377.56,Credit Card,21,755.12
+590,CUST286,2023-01-13,North,Clothing,T-Shirt V-Neck,4,235.2,Debit Card,57,940.8
+591,CUST124,2023-01-24,North,Clothing,Coffee Maker,1,437.71,PayPal,26,437.71
+592,CUST180,2023-05-06,West,Home Goods,Jeans Slim Fit,4,105.7,Credit Card,62,422.8
+593,CUST209,2023-09-01,North,Clothing,Mystery Novel,2,68.06,PayPal,26,136.12
+594,CUST180,2023-11-09,West,Electronics,Cookbook Veggie,5,146.33,Credit Card,43,731.6500000000001
+595,CUST270,2023-02-07,West,Clothing,Laptop Pro,3,268.13,Credit Card,21,804.39
+596,CUST165,2023-08-22,West,Food,Headphones ANC,8,257.73,Bank Transfer,34,2061.84
+597,CUST195,2023-08-01,North,Clothing,Smartphone X,4,411.2,Bank Transfer,33,1644.8
+598,CUST139,2023-11-19,East,Books,Headphones ANC,1,205.26,Credit Card,32,205.26
+599,CUST275,2023-10-22,West,Electronics,Sci-Fi Classic,1,244.75,Bank Transfer,52,244.75
+600,CUST221,2023-04-10,South,Books,Headphones ANC,3,11.62,Credit Card,69,34.86
+601,CUST117,2023-12-23,North,Books,Gaming Mouse,9,207.82,Debit Card,22,1870.3799999999999
+602,CUST123,2023-07-16,West,Food,Sci-Fi Classic,7,325.65,Bank Transfer,22,2279.5499999999997
+603,CUST121,2023-09-11,West,Electronics,Blender Deluxe,2,12.68,Bank Transfer,37,25.36
+604,CUST123,2023-07-24,South,Electronics,T-Shirt V-Neck,9,144.04,Bank Transfer,32,1296.36
+605,CUST210,2023-05-05,East,Electronics,Blender Deluxe,2,107.94,Debit Card,35,215.88
+606,CUST124,2023-03-17,East,Electronics,Smartphone X,3,25.78,Credit Card,64,77.34
+607,CUST290,2023-12-02,East,Electronics,E-Reader Basic,2,242.23,PayPal,19,484.46
+608,CUST289,2023-12-19,West,Food,T-Shirt V-Neck,3,94.95,Bank Transfer,46,284.85
+609,CUST195,2023-01-03,West,Clothing,Headphones ANC,6,372.83,Credit Card,30,2236.98
+610,CUST133,2023-02-24,West,Books,Cookbook Veggie,9,424.72,Debit Card,21,3822.4800000000005
+611,CUST242,2023-08-06,North,Electronics,Organic Apples,9,275.06,PayPal,59,2475.54
+612,CUST115,2023-04-23,South,Clothing,E-Reader Basic,7,490.95,Bank Transfer,62,3436.65
+613,CUST250,2023-04-01,West,Clothing,T-Shirt V-Neck,3,227.99,Debit Card,27,683.97
+614,CUST243,2023-12-23,South,Books,T-Shirt V-Neck,4,259.12,Debit Card,48,1036.48
+615,CUST243,2023-09-23,South,Food,Smartphone X,6,494.66,PayPal,58,2967.96
+616,CUST184,2023-08-26,East,Home Goods,Jeans Slim Fit,5,119.62,Credit Card,25,598.1
+617,CUST271,2023-01-26,North,Home Goods,Headphones ANC,2,471.56,Bank Transfer,20,943.12
+618,CUST131,2023-10-13,West,Clothing,Smartphone X,6,26.2,Bank Transfer,65,157.2
+619,CUST205,2023-05-08,East,Books,T-Shirt V-Neck,3,225.96,Credit Card,63,677.88
+620,CUST190,2023-03-04,East,Home Goods,Laptop Pro,8,39.65,Credit Card,26,317.2
+621,CUST270,2023-08-22,West,Clothing,E-Reader Basic,2,365.97,Credit Card,47,731.94
+622,CUST292,2023-03-10,South,Food,Smartphone X,1,306.16,PayPal,28,306.16
+623,CUST208,2023-08-26,East,Home Goods,Jeans Slim Fit,9,354.78,PayPal,52,3193.0199999999995
+624,CUST284,2023-12-08,South,Clothing,Sneakers Urban,3,190.37,Bank Transfer,54,571.11
+625,CUST113,2023-09-29,North,Clothing,Mystery Novel,1,187.89,PayPal,59,187.89
+626,CUST173,2023-10-14,South,Electronics,Blender Deluxe,7,27.43,Debit Card,30,192.01
+627,CUST253,2023-11-01,North,Food,T-Shirt V-Neck,5,178.22,Bank Transfer,53,891.1
+628,CUST179,2023-06-12,South,Electronics,Headphones ANC,5,465.0,PayPal,30,2325.0
+629,CUST190,2023-08-15,East,Books,Organic Apples,1,192.72,Credit Card,29,192.72
+630,CUST126,2023-11-10,East,Electronics,Mystery Novel,9,416.53,Debit Card,54,3748.7699999999995
+631,CUST247,2023-09-16,North,Electronics,Sci-Fi Classic,7,421.95,Credit Card,27,2953.65
+632,CUST229,2023-08-07,West,Home Goods,Cookbook Veggie,8,189.75,Bank Transfer,26,1518.0
+633,CUST154,2023-10-08,North,Clothing,Cookbook Veggie,9,317.83,Credit Card,69,2860.47
+634,CUST139,2023-08-17,North,Food,Dining Table Set,6,52.21,PayPal,24,313.26
+635,CUST268,2023-03-23,South,Electronics,Dining Table Set,5,56.32,PayPal,19,281.6
+636,CUST223,2023-09-01,South,Food,Coffee Maker,6,29.09,Bank Transfer,40,174.54
+637,CUST157,2023-08-19,North,Electronics,Jeans Slim Fit,2,292.6,Credit Card,56,585.2
+638,CUST127,2023-05-13,East,Books,Organic Apples,4,215.91,Bank Transfer,57,863.64
+639,CUST189,2023-05-07,South,Electronics,Sneakers Urban,3,276.28,Credit Card,56,828.8399999999999
+640,CUST242,2023-11-23,West,Home Goods,Sneakers Urban,7,262.93,Debit Card,38,1840.51
+641,CUST194,2023-05-22,South,Clothing,Coffee Maker,9,178.35,PayPal,40,1605.1499999999999
+642,CUST129,2023-09-24,South,Books,Jeans Slim Fit,5,340.35,Bank Transfer,46,1701.75
+643,CUST295,2023-09-06,West,Electronics,Headphones ANC,6,380.46,Debit Card,31,2282.7599999999998
+644,CUST171,2023-11-17,North,Food,Laptop Pro,2,12.24,Debit Card,43,24.48
+645,CUST246,2023-05-03,West,Books,Headphones ANC,3,107.58,Bank Transfer,68,322.74
+646,CUST157,2023-05-21,North,Books,Blender Deluxe,3,358.05,Bank Transfer,22,1074.15
+647,CUST209,2023-08-14,North,Electronics,Mystery Novel,9,196.38,Debit Card,48,1767.42
+648,CUST243,2023-02-09,North,Books,E-Reader Basic,7,332.93,Credit Card,42,2330.51
+649,CUST296,2023-05-27,West,Food,Sneakers Urban,8,176.75,Debit Card,48,1414.0
+650,CUST259,2023-05-01,North,Books,Cookbook Veggie,9,198.42,Bank Transfer,67,1785.78
+651,CUST257,2023-05-20,East,Food,Jeans Slim Fit,6,83.55,Debit Card,37,501.29999999999995
+652,CUST272,2023-06-21,West,Electronics,Headphones ANC,4,132.82,Credit Card,61,531.28
+653,CUST264,2023-06-13,East,Clothing,E-Reader Basic,1,304.68,PayPal,34,304.68
+654,CUST242,2023-10-04,North,Books,Blender Deluxe,8,219.42,PayPal,62,1755.36
+655,CUST106,2023-02-11,South,Clothing,T-Shirt V-Neck,7,388.28,Debit Card,19,2717.96
+656,CUST255,2023-03-12,North,Food,Sci-Fi Classic,2,427.03,Credit Card,42,854.06
+657,CUST268,2023-03-19,East,Books,Mystery Novel,8,273.11,PayPal,30,2184.88
+658,CUST277,2023-04-29,East,Home Goods,Blender Deluxe,5,380.34,Debit Card,56,1901.6999999999998
+659,CUST168,2023-07-16,West,Clothing,Blender Deluxe,7,156.92,Debit Card,45,1098.4399999999998
+660,CUST107,2023-12-22,South,Books,Headphones ANC,4,210.41,Credit Card,59,841.64
+661,CUST146,2023-03-20,West,Clothing,Laptop Pro,5,357.82,Bank Transfer,23,1789.1
+662,CUST169,2023-12-28,East,Books,Coffee Maker,8,196.17,Debit Card,20,1569.36
+663,CUST279,2023-04-20,North,Electronics,Sneakers Urban,1,296.31,Bank Transfer,52,296.31
+664,CUST295,2023-02-02,South,Clothing,Sci-Fi Classic,1,96.76,Bank Transfer,35,96.76
+665,CUST179,2023-08-01,North,Home Goods,Mystery Novel,4,301.89,PayPal,28,1207.56
+666,CUST186,2023-07-28,North,Home Goods,T-Shirt V-Neck,3,431.45,Bank Transfer,37,1294.35
+667,CUST189,2023-06-19,South,Food,T-Shirt V-Neck,2,434.98,Credit Card,22,869.96
+668,CUST101,2023-10-05,West,Books,Smartphone X,3,363.55,PayPal,36,1090.65
+669,CUST146,2023-08-27,North,Clothing,Blender Deluxe,1,374.15,PayPal,39,374.15
+670,CUST136,2023-08-01,East,Food,Jeans Slim Fit,1,281.17,PayPal,36,281.17
+671,CUST244,2023-02-01,North,Clothing,Laptop Pro,6,294.41,Debit Card,64,1766.46
+672,CUST268,2023-04-16,South,Books,Sci-Fi Classic,5,71.16,Debit Card,33,355.79999999999995
+673,CUST202,2023-08-04,South,Home Goods,Headphones ANC,8,224.71,Bank Transfer,41,1797.68
+674,CUST117,2023-07-19,South,Electronics,T-Shirt V-Neck,2,228.13,PayPal,58,456.26
+675,CUST136,2023-10-27,West,Home Goods,Mystery Novel,4,479.46,PayPal,21,1917.84
+676,CUST289,2023-12-23,North,Food,Smartphone X,8,218.39,Credit Card,32,1747.12
+677,CUST262,2023-01-11,West,Electronics,Cookbook Veggie,6,276.92,Bank Transfer,42,1661.52
+678,CUST107,2023-10-22,West,Food,Sneakers Urban,1,268.96,Credit Card,61,268.96
+679,CUST123,2023-07-14,South,Books,Mystery Novel,4,320.2,Bank Transfer,52,1280.8
+680,CUST291,2023-09-02,South,Electronics,Laptop Pro,1,375.38,Bank Transfer,31,375.38
+681,CUST235,2023-01-04,West,Food,Jeans Slim Fit,2,116.4,Debit Card,66,232.8
+682,CUST155,2023-06-30,North,Books,Smartphone X,5,266.72,Debit Card,36,1333.6000000000001
+683,CUST196,2023-06-02,East,Home Goods,Cookbook Veggie,8,413.83,Credit Card,55,3310.64
+684,CUST207,2023-07-19,West,Books,Smartphone X,8,234.24,Bank Transfer,53,1873.92
+685,CUST216,2023-08-03,North,Clothing,Coffee Maker,3,142.84,PayPal,24,428.52
+686,CUST187,2023-10-03,South,Books,Sci-Fi Classic,4,329.08,Debit Card,47,1316.32
+687,CUST140,2023-10-07,South,Books,Smartphone X,6,412.76,PayPal,36,2476.56
+688,CUST194,2023-11-05,North,Clothing,Gaming Mouse,3,36.25,Credit Card,66,108.75
+689,CUST179,2023-04-23,East,Food,Coffee Maker,2,389.51,Debit Card,42,779.02
+690,CUST284,2023-09-07,South,Food,Coffee Maker,6,411.72,Debit Card,33,2470.32
+691,CUST183,2023-04-23,South,Books,Laptop Pro,5,233.45,Bank Transfer,64,1167.25
+692,CUST298,2023-05-20,South,Clothing,Gaming Mouse,5,491.74,Credit Card,57,2458.7
+693,CUST245,2023-08-12,North,Clothing,E-Reader Basic,5,394.42,Bank Transfer,68,1972.1000000000001
+694,CUST252,2023-09-06,West,Home Goods,Mystery Novel,5,387.96,Debit Card,25,1939.8
+695,CUST121,2023-01-15,South,Food,Sneakers Urban,3,375.18,Credit Card,35,1125.54
+696,CUST113,2023-07-19,West,Electronics,Jeans Slim Fit,7,79.55,Debit Card,45,556.85
+697,CUST139,2023-06-22,East,Food,Organic Apples,6,112.53,Credit Card,33,675.1800000000001
+698,CUST140,2023-12-09,South,Food,Mystery Novel,4,234.68,Debit Card,69,938.72
+699,CUST293,2023-12-14,South,Home Goods,Smartphone X,2,135.68,PayPal,36,271.36
+700,CUST258,2023-07-27,East,Electronics,Jeans Slim Fit,9,210.54,PayPal,59,1894.86
+701,CUST112,2023-03-26,South,Home Goods,T-Shirt V-Neck,1,444.79,Bank Transfer,34,444.79
+702,CUST272,2023-08-28,West,Electronics,E-Reader Basic,4,413.04,PayPal,62,1652.16
+703,CUST120,2023-03-07,North,Books,T-Shirt V-Neck,1,316.87,Debit Card,30,316.87
+704,CUST169,2023-11-15,West,Electronics,Gaming Mouse,6,429.77,Debit Card,24,2578.62
+705,CUST213,2023-10-01,North,Home Goods,Dining Table Set,4,392.97,PayPal,44,1571.88
+706,CUST269,2023-01-14,North,Food,T-Shirt V-Neck,5,217.35,Bank Transfer,27,1086.75
+707,CUST208,2023-07-21,West,Electronics,Headphones ANC,5,104.53,PayPal,51,522.65
+708,CUST224,2023-10-31,West,Electronics,Sci-Fi Classic,9,259.53,Credit Card,53,2335.7699999999995
+709,CUST255,2023-10-16,West,Clothing,Mystery Novel,1,369.43,Credit Card,42,369.43
+710,CUST213,2023-12-06,West,Food,Organic Apples,2,221.03,Credit Card,23,442.06
+711,CUST206,2023-01-14,East,Books,Headphones ANC,6,335.05,PayPal,41,2010.3000000000002
+712,CUST169,2023-02-12,South,Home Goods,Dining Table Set,5,51.69,PayPal,35,258.45
+713,CUST155,2023-11-26,North,Books,Laptop Pro,7,375.26,PayPal,40,2626.8199999999997
+714,CUST293,2023-08-08,West,Food,Organic Apples,3,407.29,Credit Card,23,1221.8700000000001
+715,CUST231,2023-03-11,West,Electronics,T-Shirt V-Neck,3,354.88,Bank Transfer,46,1064.6399999999999
+716,CUST129,2023-08-25,West,Electronics,Smartphone X,2,483.8,Debit Card,42,967.6
+717,CUST188,2023-04-04,East,Food,Cookbook Veggie,3,414.19,PayPal,34,1242.57
+718,CUST210,2023-01-26,West,Electronics,E-Reader Basic,1,452.03,Bank Transfer,63,452.03
+719,CUST128,2023-05-14,West,Electronics,Sneakers Urban,5,467.12,Debit Card,41,2335.6
+720,CUST172,2023-07-14,West,Electronics,Blender Deluxe,5,401.67,Debit Card,28,2008.3500000000001
+721,CUST273,2023-06-17,South,Home Goods,Organic Apples,7,338.76,Debit Card,43,2371.3199999999997
+722,CUST273,2023-04-19,East,Home Goods,Sneakers Urban,4,7.83,Bank Transfer,68,31.32
+723,CUST251,2023-08-21,West,Clothing,Sneakers Urban,3,235.58,Bank Transfer,51,706.74
+724,CUST224,2023-06-17,North,Books,T-Shirt V-Neck,1,287.73,Credit Card,45,287.73
+725,CUST234,2023-06-22,North,Food,E-Reader Basic,8,155.49,Bank Transfer,20,1243.92
+726,CUST270,2023-07-14,North,Food,Jeans Slim Fit,3,162.46,Bank Transfer,28,487.38
+727,CUST178,2023-05-23,East,Food,Mystery Novel,2,480.77,Bank Transfer,55,961.54
+728,CUST111,2023-08-04,East,Clothing,Sneakers Urban,4,446.4,Debit Card,31,1785.6
+729,CUST156,2023-05-10,North,Home Goods,Coffee Maker,3,425.34,PayPal,68,1276.02
+730,CUST201,2023-02-11,West,Clothing,Dining Table Set,1,205.98,Credit Card,43,205.98
+731,CUST253,2023-08-29,East,Food,Sci-Fi Classic,3,11.78,PayPal,65,35.339999999999996
+732,CUST114,2023-01-10,North,Books,E-Reader Basic,2,44.71,PayPal,38,89.42
+733,CUST101,2023-10-04,North,Electronics,Smartphone X,8,159.54,Bank Transfer,56,1276.32
+734,CUST152,2023-01-27,West,Home Goods,Gaming Mouse,6,12.79,Credit Card,47,76.74
+735,CUST177,2023-06-29,South,Home Goods,Smartphone X,9,13.49,PayPal,25,121.41
+736,CUST154,2023-04-25,East,Clothing,E-Reader Basic,8,458.72,PayPal,68,3669.76
+737,CUST296,2023-11-29,West,Home Goods,Smartphone X,3,354.55,Credit Card,37,1063.65
+738,CUST135,2023-02-05,North,Food,Sneakers Urban,5,157.93,Bank Transfer,65,789.6500000000001
+739,CUST295,2023-11-30,North,Food,Mystery Novel,7,70.66,PayPal,49,494.62
+740,CUST165,2023-01-21,West,Clothing,Smartphone X,5,258.26,Debit Card,39,1291.3
+741,CUST174,2023-01-16,East,Food,Organic Apples,8,7.65,PayPal,24,61.2
+742,CUST183,2023-05-07,South,Books,Coffee Maker,5,469.51,Debit Card,26,2347.55
+743,CUST130,2023-04-13,South,Clothing,Smartphone X,1,210.33,Bank Transfer,62,210.33
+744,CUST101,2023-01-11,North,Books,Coffee Maker,5,204.16,PayPal,18,1020.8
+745,CUST227,2023-11-15,East,Electronics,Cookbook Veggie,4,198.34,Credit Card,46,793.36
+746,CUST291,2023-03-20,South,Books,T-Shirt V-Neck,6,39.32,Credit Card,25,235.92000000000002
+747,CUST210,2023-05-03,East,Electronics,Laptop Pro,3,320.97,PayPal,21,962.9100000000001
+748,CUST144,2023-03-06,East,Electronics,Mystery Novel,5,367.84,Bank Transfer,52,1839.1999999999998
+749,CUST133,2023-08-31,North,Books,Dining Table Set,2,339.68,Bank Transfer,20,679.36
+750,CUST197,2023-12-09,South,Clothing,Sneakers Urban,6,73.53,Credit Card,62,441.18
+751,CUST236,2023-02-28,West,Food,Laptop Pro,6,291.53,PayPal,57,1749.1799999999998
+752,CUST280,2023-10-16,North,Food,Sneakers Urban,5,286.89,Bank Transfer,24,1434.4499999999998
+753,CUST158,2023-04-22,South,Electronics,T-Shirt V-Neck,6,434.86,Credit Card,44,2609.16
+754,CUST228,2023-08-27,South,Electronics,Sneakers Urban,7,192.67,Debit Card,18,1348.6899999999998
+755,CUST243,2023-12-25,South,Clothing,Cookbook Veggie,5,188.89,PayPal,44,944.4499999999999
+756,CUST271,2023-05-12,South,Home Goods,Mystery Novel,1,311.17,Debit Card,33,311.17
+757,CUST190,2023-07-08,South,Books,E-Reader Basic,8,318.37,Debit Card,55,2546.96
+758,CUST118,2023-03-27,East,Electronics,E-Reader Basic,4,237.3,Bank Transfer,24,949.2
+759,CUST201,2023-11-07,North,Food,Coffee Maker,9,224.31,Bank Transfer,61,2018.79
+760,CUST289,2023-11-07,East,Clothing,T-Shirt V-Neck,6,249.6,Bank Transfer,40,1497.6
+761,CUST110,2023-02-28,West,Books,Coffee Maker,1,431.22,PayPal,58,431.22
+762,CUST211,2023-03-25,South,Clothing,Cookbook Veggie,3,233.28,Debit Card,28,699.84
+763,CUST104,2023-06-09,North,Books,Sci-Fi Classic,3,470.27,PayPal,59,1410.81
+764,CUST217,2023-02-25,South,Books,Smartphone X,4,254.48,Bank Transfer,50,1017.92
+765,CUST119,2023-10-24,North,Electronics,Blender Deluxe,6,474.85,Debit Card,67,2849.1000000000004
+766,CUST180,2023-01-14,East,Clothing,Sci-Fi Classic,7,417.25,PayPal,53,2920.75
+767,CUST247,2023-06-09,North,Clothing,Smartphone X,4,184.4,PayPal,54,737.6
+768,CUST209,2023-10-22,West,Food,Mystery Novel,6,432.5,Credit Card,58,2595.0
+769,CUST246,2023-12-13,West,Food,Coffee Maker,1,59.48,PayPal,34,59.48
+770,CUST203,2023-07-12,North,Electronics,Dining Table Set,8,462.9,Bank Transfer,52,3703.2
+771,CUST281,2023-07-23,North,Electronics,Mystery Novel,7,317.66,PayPal,65,2223.6200000000003
+772,CUST263,2023-04-12,North,Home Goods,Cookbook Veggie,9,31.92,Debit Card,22,287.28000000000003
+773,CUST206,2023-02-08,North,Food,Headphones ANC,3,323.91,PayPal,65,971.73
+774,CUST174,2023-10-31,West,Books,Headphones ANC,2,487.25,Credit Card,49,974.5
+775,CUST129,2023-12-20,South,Clothing,Headphones ANC,1,39.55,Debit Card,20,39.55
+776,CUST203,2023-11-18,North,Electronics,Cookbook Veggie,3,279.57,Debit Card,69,838.71
+777,CUST105,2023-05-05,North,Clothing,Dining Table Set,5,375.16,Credit Card,64,1875.8000000000002
+778,CUST183,2023-02-22,West,Clothing,Sneakers Urban,2,406.08,Bank Transfer,52,812.16
+779,CUST143,2023-12-23,West,Home Goods,Mystery Novel,3,209.84,Debit Card,69,629.52
+780,CUST258,2023-06-04,East,Food,Smartphone X,4,106.06,Bank Transfer,31,424.24
+781,CUST217,2023-12-17,North,Electronics,Cookbook Veggie,7,25.96,Debit Card,65,181.72
+782,CUST276,2023-11-04,East,Clothing,Headphones ANC,3,291.96,Debit Card,48,875.8799999999999
+783,CUST192,2023-03-03,West,Electronics,Dining Table Set,9,229.19,Bank Transfer,48,2062.71
+784,CUST122,2023-10-17,West,Books,T-Shirt V-Neck,8,474.63,Debit Card,34,3797.04
+785,CUST211,2023-01-22,South,Home Goods,Cookbook Veggie,4,35.0,Bank Transfer,41,140.0
+786,CUST127,2023-06-27,North,Books,Gaming Mouse,1,344.27,Credit Card,69,344.27
+787,CUST162,2023-09-30,East,Electronics,Sneakers Urban,1,17.36,Bank Transfer,40,17.36
+788,CUST211,2023-08-08,West,Electronics,Smartphone X,1,89.86,Credit Card,35,89.86
+789,CUST250,2023-12-05,West,Food,Headphones ANC,1,229.52,Debit Card,67,229.52
+790,CUST202,2023-07-09,East,Clothing,Jeans Slim Fit,8,230.16,Bank Transfer,31,1841.28
+791,CUST234,2023-02-05,South,Clothing,E-Reader Basic,3,344.42,Debit Card,67,1033.26
+792,CUST120,2023-09-17,West,Books,Dining Table Set,6,455.56,Bank Transfer,32,2733.36
+793,CUST201,2023-11-28,North,Home Goods,E-Reader Basic,3,321.32,Credit Card,32,963.96
+794,CUST179,2023-06-24,West,Clothing,Sci-Fi Classic,5,477.0,Credit Card,23,2385.0
+795,CUST290,2023-01-07,North,Food,E-Reader Basic,7,441.4,Bank Transfer,44,3089.7999999999997
+796,CUST186,2023-08-04,East,Books,Smartphone X,2,294.33,Credit Card,32,588.66
+797,CUST156,2023-09-08,North,Books,Organic Apples,6,417.73,Debit Card,67,2506.38
+798,CUST185,2023-02-24,East,Food,Coffee Maker,6,323.08,Debit Card,53,1938.48
+799,CUST299,2023-08-10,North,Home Goods,Smartphone X,3,43.89,PayPal,25,131.67000000000002
+800,CUST143,2023-07-05,East,Food,Sneakers Urban,6,371.58,Credit Card,32,2229.48
+801,CUST119,2023-11-22,North,Home Goods,Gaming Mouse,5,51.98,Debit Card,20,259.9
+802,CUST230,2023-08-24,South,Food,Smartphone X,2,299.07,Bank Transfer,64,598.14
+803,CUST262,2023-12-29,North,Food,Cookbook Veggie,9,352.81,Credit Card,30,3175.29
+804,CUST129,2023-03-20,North,Electronics,Dining Table Set,8,37.93,Debit Card,58,303.44
+805,CUST235,2023-08-11,South,Books,Blender Deluxe,3,119.24,Credit Card,51,357.71999999999997
+806,CUST230,2023-04-01,West,Food,Dining Table Set,8,458.26,Bank Transfer,41,3666.08
+807,CUST149,2023-09-25,West,Food,Coffee Maker,9,310.08,Debit Card,57,2790.72
+808,CUST298,2023-11-30,North,Clothing,Jeans Slim Fit,3,126.91,PayPal,49,380.73
+809,CUST189,2023-05-19,South,Books,E-Reader Basic,3,346.89,PayPal,49,1040.67
+810,CUST189,2023-11-12,North,Clothing,Coffee Maker,2,300.4,Credit Card,47,600.8
+811,CUST286,2023-10-03,East,Books,E-Reader Basic,8,253.28,Bank Transfer,69,2026.24
+812,CUST265,2023-09-05,East,Clothing,Sci-Fi Classic,1,488.21,Debit Card,66,488.21
+813,CUST137,2023-08-27,North,Food,Coffee Maker,8,343.31,Bank Transfer,30,2746.48
+814,CUST160,2023-08-12,West,Food,Headphones ANC,7,190.84,Debit Card,18,1335.88
+815,CUST126,2023-10-31,West,Electronics,Sneakers Urban,7,401.04,Credit Card,51,2807.28
+816,CUST137,2023-05-18,North,Clothing,Sneakers Urban,3,442.87,Debit Card,32,1328.6100000000001
+817,CUST165,2023-06-15,North,Home Goods,E-Reader Basic,1,66.98,Bank Transfer,61,66.98
+818,CUST150,2023-05-06,East,Electronics,Jeans Slim Fit,4,104.27,Bank Transfer,31,417.08
+819,CUST144,2023-02-14,West,Clothing,Headphones ANC,9,112.03,Credit Card,46,1008.27
+820,CUST254,2023-05-23,North,Clothing,Laptop Pro,5,347.15,Bank Transfer,51,1735.75
+821,CUST139,2023-08-19,East,Electronics,Mystery Novel,1,303.5,Debit Card,35,303.5
+822,CUST294,2023-05-05,West,Food,Mystery Novel,5,311.4,Credit Card,24,1557.0
+823,CUST294,2023-08-26,South,Clothing,Jeans Slim Fit,8,470.68,Debit Card,46,3765.44
+824,CUST267,2023-10-19,East,Food,Blender Deluxe,8,389.08,Bank Transfer,48,3112.64
+825,CUST119,2023-11-09,West,Electronics,Laptop Pro,5,68.33,Credit Card,42,341.65
+826,CUST145,2023-12-09,West,Food,Sci-Fi Classic,9,177.02,Debit Card,55,1593.18
+827,CUST297,2023-07-14,East,Books,Jeans Slim Fit,1,220.52,Bank Transfer,31,220.52
+828,CUST260,2023-06-22,South,Home Goods,Headphones ANC,4,201.0,Bank Transfer,25,804.0
+829,CUST226,2023-01-15,East,Clothing,Mystery Novel,3,336.31,PayPal,44,1008.9300000000001
+830,CUST218,2023-09-11,West,Home Goods,Cookbook Veggie,2,446.49,Bank Transfer,19,892.98
+831,CUST293,2023-06-16,North,Food,Mystery Novel,8,156.5,Debit Card,34,1252.0
+832,CUST244,2023-04-04,North,Clothing,Mystery Novel,7,278.18,Credit Card,54,1947.26
+833,CUST294,2023-09-07,East,Food,Headphones ANC,9,395.76,PayPal,31,3561.84
+834,CUST248,2023-04-19,West,Books,T-Shirt V-Neck,2,211.03,Bank Transfer,42,422.06
+835,CUST214,2023-07-01,North,Electronics,Jeans Slim Fit,4,88.22,Bank Transfer,47,352.88
+836,CUST274,2023-05-13,West,Clothing,Smartphone X,6,240.1,Bank Transfer,46,1440.6
+837,CUST244,2023-06-24,East,Books,Dining Table Set,3,32.34,Debit Card,37,97.02000000000001
+838,CUST264,2023-05-24,North,Books,Sci-Fi Classic,8,471.48,PayPal,38,3771.84
+839,CUST262,2023-11-02,West,Clothing,Mystery Novel,3,42.04,Debit Card,39,126.12
+840,CUST259,2023-12-26,North,Food,Dining Table Set,2,222.04,PayPal,52,444.08
+841,CUST182,2023-05-22,East,Books,Sneakers Urban,3,267.29,Credit Card,54,801.8700000000001
+842,CUST260,2023-10-12,West,Home Goods,Cookbook Veggie,6,492.73,Debit Card,33,2956.38
+843,CUST180,2023-01-06,North,Books,E-Reader Basic,2,87.18,Debit Card,67,174.36
+844,CUST138,2023-09-22,East,Food,Jeans Slim Fit,8,61.64,Credit Card,66,493.12
+845,CUST212,2023-04-08,North,Food,Gaming Mouse,1,9.31,PayPal,60,9.31
+846,CUST117,2023-02-13,North,Home Goods,Headphones ANC,7,82.01,Bank Transfer,34,574.07
+847,CUST220,2023-05-04,South,Books,T-Shirt V-Neck,2,107.6,Credit Card,33,215.2
+848,CUST213,2023-07-28,South,Food,Sneakers Urban,6,317.14,Bank Transfer,19,1902.84
+849,CUST261,2023-09-08,East,Clothing,Jeans Slim Fit,2,113.75,Bank Transfer,21,227.5
+850,CUST177,2023-10-12,South,Electronics,Sci-Fi Classic,2,15.16,Credit Card,38,30.32
+851,CUST170,2023-05-04,East,Electronics,Cookbook Veggie,8,414.18,PayPal,56,3313.44
+852,CUST251,2023-12-20,South,Electronics,T-Shirt V-Neck,2,185.97,Bank Transfer,51,371.94
+853,CUST114,2023-09-01,North,Books,Sci-Fi Classic,7,180.08,Credit Card,47,1260.5600000000002
+854,CUST190,2023-11-27,East,Home Goods,Sneakers Urban,3,154.73,Debit Card,23,464.18999999999994
+855,CUST229,2023-12-31,East,Food,Jeans Slim Fit,8,487.81,Debit Card,34,3902.48
+856,CUST118,2023-09-09,North,Clothing,Smartphone X,7,89.21,Debit Card,56,624.4699999999999
+857,CUST179,2023-08-18,East,Clothing,Sneakers Urban,8,449.63,Credit Card,42,3597.04
+858,CUST218,2023-01-09,East,Books,Gaming Mouse,7,389.52,Debit Card,22,2726.64
+859,CUST215,2023-02-17,South,Electronics,Sci-Fi Classic,6,42.86,Bank Transfer,22,257.15999999999997
+860,CUST109,2023-05-31,East,Books,T-Shirt V-Neck,7,493.43,Debit Card,37,3454.01
+861,CUST114,2023-04-24,West,Home Goods,T-Shirt V-Neck,5,139.33,Debit Card,33,696.6500000000001
+862,CUST194,2023-07-27,North,Home Goods,Dining Table Set,7,53.8,Bank Transfer,68,376.59999999999997
+863,CUST173,2023-12-21,South,Food,Sci-Fi Classic,1,415.51,Debit Card,58,415.51
+864,CUST119,2023-05-05,South,Food,Organic Apples,1,354.8,Bank Transfer,54,354.8
+865,CUST265,2023-06-06,West,Home Goods,Jeans Slim Fit,9,310.52,Debit Card,57,2794.68
+866,CUST123,2023-12-06,North,Home Goods,Organic Apples,5,82.21,Bank Transfer,26,411.04999999999995
+867,CUST257,2023-10-25,North,Home Goods,Blender Deluxe,5,241.86,Debit Card,22,1209.3000000000002
+868,CUST252,2023-07-08,South,Books,Jeans Slim Fit,3,391.38,Bank Transfer,59,1174.1399999999999
+869,CUST229,2023-08-31,East,Home Goods,Sci-Fi Classic,5,155.29,Credit Card,19,776.4499999999999
+870,CUST198,2023-10-11,South,Clothing,Laptop Pro,3,159.29,Bank Transfer,26,477.87
+871,CUST218,2023-09-29,North,Electronics,Cookbook Veggie,9,6.55,Debit Card,60,58.949999999999996
+872,CUST248,2023-06-26,West,Home Goods,Sci-Fi Classic,9,91.25,Debit Card,53,821.25
+873,CUST241,2023-08-06,South,Electronics,Organic Apples,6,438.33,PayPal,39,2629.98
+874,CUST289,2023-10-09,North,Books,Smartphone X,1,223.66,Bank Transfer,39,223.66
+875,CUST110,2023-06-19,South,Electronics,Cookbook Veggie,7,492.2,Credit Card,39,3445.4
+876,CUST215,2023-06-30,East,Books,Sci-Fi Classic,7,200.88,Bank Transfer,51,1406.1599999999999
+877,CUST246,2023-12-26,South,Clothing,Sci-Fi Classic,4,359.02,Bank Transfer,46,1436.08
+878,CUST266,2023-08-21,South,Books,Smartphone X,8,144.55,Credit Card,55,1156.4
+879,CUST148,2023-05-19,North,Books,Sci-Fi Classic,6,185.09,Bank Transfer,63,1110.54
+880,CUST182,2023-06-06,North,Food,Cookbook Veggie,4,99.41,Credit Card,50,397.64
+881,CUST254,2023-05-09,North,Home Goods,Mystery Novel,4,176.8,Credit Card,35,707.2
+882,CUST221,2023-04-29,South,Home Goods,Laptop Pro,2,275.88,Bank Transfer,24,551.76
+883,CUST228,2023-03-03,East,Clothing,E-Reader Basic,2,495.93,Bank Transfer,18,991.86
+884,CUST138,2023-04-09,West,Clothing,Laptop Pro,4,333.78,Debit Card,50,1335.12
+885,CUST115,2023-06-11,West,Home Goods,Headphones ANC,5,103.63,Debit Card,18,518.15
+886,CUST215,2023-03-03,North,Food,Gaming Mouse,8,27.26,PayPal,41,218.08
+887,CUST126,2023-10-02,North,Home Goods,Dining Table Set,6,67.55,PayPal,21,405.29999999999995
+888,CUST187,2023-12-20,South,Food,Sci-Fi Classic,4,283.46,Bank Transfer,21,1133.84
+889,CUST282,2023-04-05,West,Clothing,Mystery Novel,7,383.75,Credit Card,35,2686.25
+890,CUST121,2023-04-09,North,Electronics,Jeans Slim Fit,8,470.51,PayPal,44,3764.08
+891,CUST229,2023-04-21,East,Clothing,Sci-Fi Classic,2,12.83,Bank Transfer,60,25.66
+892,CUST265,2023-09-05,East,Clothing,Organic Apples,7,263.77,PayPal,49,1846.3899999999999
+893,CUST144,2023-05-22,North,Books,Sneakers Urban,2,238.08,Credit Card,50,476.16
+894,CUST110,2023-10-29,North,Books,Mystery Novel,2,329.75,Bank Transfer,45,659.5
+895,CUST163,2023-09-26,West,Books,Smartphone X,8,281.99,Credit Card,59,2255.92
+896,CUST281,2023-11-02,West,Books,Mystery Novel,2,345.08,Bank Transfer,58,690.16
+897,CUST212,2023-05-25,South,Food,Headphones ANC,9,330.75,PayPal,53,2976.75
+898,CUST212,2023-02-21,West,Home Goods,Smartphone X,1,62.92,Debit Card,23,62.92
+899,CUST234,2023-04-10,East,Electronics,Blender Deluxe,9,400.86,PayPal,33,3607.7400000000002
+900,CUST233,2023-06-01,East,Clothing,E-Reader Basic,1,66.0,PayPal,51,66.0
+901,CUST256,2023-04-27,North,Food,Coffee Maker,2,350.77,Debit Card,40,701.54
+902,CUST140,2023-07-04,West,Electronics,Cookbook Veggie,6,210.99,Debit Card,67,1265.94
+903,CUST193,2023-04-02,South,Food,Mystery Novel,6,259.36,Bank Transfer,59,1556.16
+904,CUST195,2023-06-04,East,Food,Cookbook Veggie,1,452.13,Bank Transfer,41,452.13
+905,CUST172,2023-01-08,East,Clothing,T-Shirt V-Neck,7,445.49,Credit Card,66,3118.4300000000003
+906,CUST199,2023-12-29,South,Home Goods,Organic Apples,8,409.84,Credit Card,30,3278.72
+907,CUST204,2023-10-01,South,Books,Sci-Fi Classic,2,257.52,PayPal,35,515.04
+908,CUST298,2023-03-06,East,Home Goods,Organic Apples,8,369.44,Debit Card,30,2955.52
+909,CUST186,2023-05-21,East,Clothing,Cookbook Veggie,9,258.88,Credit Card,66,2329.92
+910,CUST273,2023-01-24,South,Clothing,Laptop Pro,6,435.46,PayPal,54,2612.7599999999998
+911,CUST253,2023-01-28,East,Clothing,Coffee Maker,5,204.37,Debit Card,60,1021.85
+912,CUST113,2023-10-11,North,Electronics,Laptop Pro,9,485.27,Bank Transfer,56,4367.43
+913,CUST261,2023-05-30,North,Home Goods,Blender Deluxe,9,466.5,PayPal,59,4198.5
+914,CUST265,2023-12-24,South,Home Goods,Coffee Maker,1,372.09,Bank Transfer,34,372.09
+915,CUST185,2023-03-06,West,Food,Coffee Maker,3,143.31,Credit Card,32,429.93
+916,CUST116,2023-11-23,South,Food,Laptop Pro,9,70.17,Credit Card,35,631.53
+917,CUST184,2023-09-09,South,Food,Smartphone X,2,428.08,Debit Card,40,856.16
+918,CUST124,2023-02-22,West,Clothing,Headphones ANC,4,86.82,PayPal,68,347.28
+919,CUST242,2023-01-07,West,Home Goods,Cookbook Veggie,4,427.86,Bank Transfer,47,1711.44
+920,CUST273,2023-10-21,West,Clothing,Laptop Pro,2,247.93,Debit Card,51,495.86
+921,CUST198,2023-05-26,North,Electronics,Organic Apples,3,206.25,Credit Card,21,618.75
+922,CUST172,2023-08-29,East,Food,Smartphone X,3,452.08,Credit Card,20,1356.24
+923,CUST164,2023-09-03,North,Clothing,Organic Apples,1,303.91,PayPal,24,303.91
+924,CUST285,2023-08-14,East,Clothing,Headphones ANC,6,290.42,Bank Transfer,35,1742.52
+925,CUST268,2023-06-24,North,Electronics,Blender Deluxe,8,281.59,PayPal,59,2252.72
+926,CUST254,2023-04-05,East,Books,Sci-Fi Classic,3,188.73,Bank Transfer,24,566.1899999999999
+927,CUST138,2023-01-27,North,Home Goods,Headphones ANC,5,393.89,Bank Transfer,57,1969.4499999999998
+928,CUST185,2023-05-10,West,Books,Gaming Mouse,1,130.14,PayPal,23,130.14
+929,CUST120,2023-09-02,South,Food,Jeans Slim Fit,7,469.75,Debit Card,39,3288.25
+930,CUST249,2023-02-28,North,Clothing,Smartphone X,1,447.52,PayPal,18,447.52
+931,CUST269,2023-02-03,East,Electronics,Blender Deluxe,9,172.05,PayPal,21,1548.45
+932,CUST136,2023-07-25,West,Electronics,Gaming Mouse,8,366.08,Credit Card,63,2928.64
+933,CUST189,2023-09-09,North,Home Goods,T-Shirt V-Neck,7,288.75,Credit Card,66,2021.25
+934,CUST179,2023-02-07,North,Books,Blender Deluxe,7,172.14,PayPal,69,1204.98
+935,CUST267,2023-10-23,West,Home Goods,Laptop Pro,5,494.32,PayPal,67,2471.6
+936,CUST278,2023-11-19,North,Clothing,Dining Table Set,5,17.49,Credit Card,60,87.44999999999999
+937,CUST269,2023-12-18,South,Home Goods,Laptop Pro,5,130.06,Bank Transfer,46,650.3
+938,CUST200,2023-01-28,North,Electronics,Headphones ANC,1,262.44,PayPal,38,262.44
+939,CUST133,2023-03-19,South,Electronics,Jeans Slim Fit,8,263.37,Debit Card,43,2106.96
+940,CUST252,2023-03-18,South,Food,Blender Deluxe,1,296.52,Debit Card,31,296.52
+941,CUST281,2023-10-16,West,Food,Cookbook Veggie,4,377.08,Debit Card,26,1508.32
+942,CUST121,2023-06-05,North,Clothing,E-Reader Basic,9,313.62,PayPal,64,2822.58
+943,CUST179,2023-02-13,West,Books,Sci-Fi Classic,9,302.14,Bank Transfer,29,2719.2599999999998
+944,CUST243,2023-05-08,North,Home Goods,Headphones ANC,5,31.49,Bank Transfer,59,157.45
+945,CUST196,2023-03-02,North,Clothing,Laptop Pro,4,191.38,Credit Card,68,765.52
+946,CUST264,2023-10-13,East,Food,Jeans Slim Fit,3,119.87,PayPal,68,359.61
+947,CUST184,2023-08-02,North,Home Goods,Sci-Fi Classic,3,136.36,Bank Transfer,23,409.08000000000004
+948,CUST132,2023-11-07,West,Food,Blender Deluxe,5,279.4,PayPal,37,1397.0
+949,CUST271,2023-11-02,South,Home Goods,Cookbook Veggie,1,103.76,Credit Card,41,103.76
+950,CUST279,2023-11-13,North,Books,Blender Deluxe,5,150.5,Credit Card,44,752.5
+951,CUST289,2023-04-26,East,Clothing,Coffee Maker,6,122.36,Credit Card,55,734.16
+952,CUST275,2023-09-25,West,Home Goods,Jeans Slim Fit,7,474.51,Debit Card,25,3321.5699999999997
+953,CUST234,2023-07-14,North,Electronics,Gaming Mouse,9,472.61,PayPal,18,4253.49
+954,CUST123,2023-08-19,West,Electronics,Laptop Pro,3,306.92,Credit Card,66,920.76
+955,CUST265,2023-08-15,East,Home Goods,Cookbook Veggie,2,462.64,PayPal,66,925.28
+956,CUST271,2023-06-02,East,Home Goods,E-Reader Basic,3,393.98,Debit Card,41,1181.94
+957,CUST208,2023-10-29,West,Home Goods,Blender Deluxe,9,297.02,Debit Card,64,2673.18
+958,CUST230,2023-08-08,North,Electronics,E-Reader Basic,7,8.19,Credit Card,24,57.33
+959,CUST192,2023-06-06,South,Electronics,Blender Deluxe,9,387.4,Credit Card,36,3486.6
+960,CUST104,2023-10-19,East,Home Goods,Laptop Pro,2,352.73,Bank Transfer,39,705.46
+961,CUST192,2023-11-14,North,Food,Sci-Fi Classic,5,309.55,PayPal,52,1547.75
+962,CUST179,2023-01-31,North,Food,Mystery Novel,4,381.41,Credit Card,47,1525.64
+963,CUST146,2023-11-09,South,Books,Sci-Fi Classic,2,258.9,Bank Transfer,46,517.8
+964,CUST154,2023-02-20,East,Clothing,Blender Deluxe,9,353.52,PayPal,39,3181.68
+965,CUST187,2023-04-17,East,Food,Organic Apples,9,467.91,Credit Card,28,4211.1900000000005
+966,CUST296,2023-11-17,North,Electronics,Dining Table Set,6,191.02,Bank Transfer,37,1146.1200000000001
+967,CUST224,2023-04-19,North,Food,Sneakers Urban,6,355.52,Bank Transfer,46,2133.12
+968,CUST149,2023-05-16,South,Books,Mystery Novel,8,240.47,PayPal,68,1923.76
+969,CUST157,2023-12-05,South,Books,Gaming Mouse,6,338.83,Bank Transfer,58,2032.98
+970,CUST135,2023-02-11,East,Clothing,Mystery Novel,1,382.63,PayPal,59,382.63
+971,CUST139,2023-03-22,West,Food,Dining Table Set,4,27.5,PayPal,51,110.0
+972,CUST119,2023-05-03,East,Electronics,E-Reader Basic,7,325.07,PayPal,18,2275.49
+973,CUST175,2023-03-30,North,Electronics,Jeans Slim Fit,2,117.24,Debit Card,48,234.48
+974,CUST125,2023-10-10,East,Home Goods,E-Reader Basic,9,336.67,Bank Transfer,47,3030.03
+975,CUST229,2023-02-08,West,Electronics,Headphones ANC,8,236.82,PayPal,65,1894.56
+976,CUST297,2023-03-22,South,Clothing,E-Reader Basic,8,387.91,Credit Card,35,3103.28
+977,CUST238,2023-01-02,West,Clothing,Gaming Mouse,7,66.08,Debit Card,34,462.56
+978,CUST289,2023-07-29,West,Electronics,Organic Apples,4,315.03,Debit Card,55,1260.12
+979,CUST234,2023-08-19,West,Electronics,Sci-Fi Classic,2,142.84,Bank Transfer,31,285.68
+980,CUST109,2023-12-19,South,Home Goods,Sci-Fi Classic,3,427.23,PayPal,40,1281.69
+981,CUST269,2023-11-01,West,Electronics,Sneakers Urban,6,464.55,Bank Transfer,42,2787.3
+982,CUST186,2023-08-29,West,Home Goods,T-Shirt V-Neck,5,498.22,Debit Card,32,2491.1000000000004
+983,CUST296,2023-05-30,West,Home Goods,Blender Deluxe,8,399.02,PayPal,63,3192.16
+984,CUST258,2023-01-17,North,Electronics,Organic Apples,6,378.1,Credit Card,39,2268.6000000000004
+985,CUST133,2023-04-29,West,Books,T-Shirt V-Neck,6,111.67,PayPal,20,670.02
+986,CUST252,2023-05-28,South,Books,Dining Table Set,1,171.32,Debit Card,36,171.32
+987,CUST196,2023-12-28,West,Home Goods,Headphones ANC,4,235.51,Credit Card,61,942.04
+988,CUST139,2023-05-25,West,Electronics,Laptop Pro,5,387.82,PayPal,51,1939.1
+989,CUST141,2023-12-26,South,Books,Dining Table Set,3,457.91,Credit Card,52,1373.73
+990,CUST146,2023-08-21,West,Electronics,Blender Deluxe,9,98.62,Credit Card,67,887.58
+991,CUST277,2023-02-06,South,Electronics,Blender Deluxe,1,461.57,Debit Card,18,461.57
+992,CUST297,2023-12-18,West,Electronics,Coffee Maker,6,349.33,Credit Card,69,2095.98
+993,CUST259,2023-04-30,South,Food,Coffee Maker,6,307.33,Bank Transfer,38,1843.98
+994,CUST142,2023-05-16,West,Electronics,Smartphone X,5,103.92,Debit Card,46,519.6
+995,CUST284,2023-11-17,West,Food,Dining Table Set,5,32.48,Bank Transfer,23,162.39999999999998
+996,CUST212,2023-10-29,North,Home Goods,Smartphone X,5,286.39,Credit Card,54,1431.9499999999998
+997,CUST111,2023-12-05,North,Books,E-Reader Basic,6,327.5,Bank Transfer,18,1965.0
+998,CUST205,2023-04-12,West,Books,Laptop Pro,8,109.34,PayPal,68,874.72
+999,CUST193,2023-08-06,West,Books,Mystery Novel,2,280.45,Credit Card,18,560.9
+1000,CUST273,2023-02-28,East,Books,Sneakers Urban,6,428.96,PayPal,44,2573.7599999999998
